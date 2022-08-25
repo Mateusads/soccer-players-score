@@ -18,9 +18,8 @@ public class ScorePlayerController {
 
     @GET
     @Produces(MediaType.TEXT_PLAIN)
-    public String topPlayerScore() {
-        var topPlayer = playerScore.topPlayerScoreList();
-
-        return "Hello from RESTEasy Reactive";
+    public String topPlayerScore(final int numberOfround) {
+        var topPlayer = playerScore.topPlayerScoreList(numberOfround);
+        return topPlayer;
     }
 }

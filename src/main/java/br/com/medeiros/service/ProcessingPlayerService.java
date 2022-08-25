@@ -12,11 +12,11 @@ public class ProcessingPlayerService {
     Team team = Team.builder().id(Long.parseLong(playerData[3])).name(playerData[17]).build();
     return Player.builder()
         .id(Long.parseLong(playerData[1]))
-        .team(team)
+        .name(playerData[15])
         .position(playerData[4])
         .nickname(playerData[14])
-        .name(playerData[15])
+        .team(team)
+        .points(Double.parseDouble(playerData[6]))
         .build();
   }
-
 }

@@ -10,19 +10,20 @@ import java.util.Set;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
-public class CartolaClient {
+public class ReadFile {
   private final ProcessingPlayerService processingPlayerService;
 
-  public Set<Player> readFile(final String filePath) throws IOException {
+  public BufferedReader createPlayers(final String filePath) throws IOException {
     Set<Player> players = new HashSet<>();
     BufferedReader bufferedReader = new BufferedReader(new FileReader(filePath));
-    String line;
-    while (bufferedReader.readLine()!= null) {
-      line = bufferedReader.readLine();
-      var player = processingPlayerService.createPlayerFromLine(line);
-
-    }
-    return players;
+    return bufferedReader;
+//    String line;
+//    while (bufferedReader.readLine()!= null) {
+//      line = bufferedReader.readLine();
+//      var player = processingPlayerService.createPlayerFromLine(line);
+//      players.add(player);
+//    }
+//    return players;
   }
 
 }

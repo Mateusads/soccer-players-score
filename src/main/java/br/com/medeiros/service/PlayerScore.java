@@ -1,18 +1,21 @@
 package br.com.medeiros.service;
 
-import br.com.medeiros.controller.input.CartolaClient;
+import br.com.medeiros.controller.input.PullCartolaFile;
+import br.com.medeiros.controller.input.ReadFile;
 import br.com.medeiros.entity.Player;
-import java.util.List;
+import java.io.IOException;
+import java.util.HashSet;
+import java.util.Set;
 import javax.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
 public class PlayerScore {
 
-  public List<Player> topPlayerScoreList(){
+  private final CreateScorePlayer createScorePlayer = new CreateScorePlayer();
 
-
-    return List.of();
-
+  public String topPlayerScoreList(final int numberOfround){
+    return createScorePlayer.create(numberOfround);
   }
+
 
 }

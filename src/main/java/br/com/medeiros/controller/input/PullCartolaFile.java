@@ -9,29 +9,17 @@ import java.nio.channels.ReadableByteChannel;
 
 public class PullCartolaFile {
 
-  public String downloadFile(int numberOfMatches) throws IOException {
-
-    int countMatches = 0;
+  public String createFile(int numberOfround) throws IOException {
+    String url;
     URL fetchWebsite = null;
-    while (countMatches > numberOfMatches - 1) {
-      try {
-        fetchWebsite = new URL(
-            "https://raw.githubusercontent.com/henriquepgomide/caRtola/master/data/01_raw/2022/rodada-"
-                + countMatches + ".csv");
-      } catch (MalformedURLException e) {
-        throw new RuntimeException(e);
-      }
-    }
-
+    fetchWebsite = new URL(
+        "https://raw.githubusercontent.com/henriquepgomide/caRtola/master/data/01_raw/2022/rodada-"
+            + numberOfround + ".csv");
     ReadableByteChannel readableByteChannel = Channels.newChannel(fetchWebsite.openStream());
-    try {
-      var url = "src/main/resources/rodada-0.csv";
-      FileOutputStream fos = new FileOutputStream(url);
-      fos.getChannel().transferFrom(readableByteChannel, 0, Long.MAX_VALUE);
-      return url;
-    } catch (IOException e) {
-      throw new RuntimeException(e);
-    }
-  }
+    url = "src/main/resources/rodada-" + numberOfround + ".csv";
+    FileOutputStream fos = new FileOutputStream(url);
+    fos.getChannel().transferFrom(readableByteChannel, 0, Long.MAX_VALUE);
 
+    return url;
+  }
 }

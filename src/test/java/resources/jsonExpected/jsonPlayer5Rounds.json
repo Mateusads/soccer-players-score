@@ -1,0 +1,5518 @@
+[
+  {
+    "name": "Marcos Leonardo Santos Almeida",
+    "position": "ata",
+    "nickname": "Marcos Leonardo",
+    "teamName": "Santos",
+    "points": 0.37
+  },
+  {
+    "name": "Luiz Guilherme da Conceição Silva",
+    "position": "ata",
+    "nickname": "Muriqui",
+    "teamName": "Avaí",
+    "points": 0.35
+  },
+  {
+    "name": "Erison Danilo de Souza",
+    "position": "ata",
+    "nickname": "Erison",
+    "teamName": "Botafogo",
+    "points": 0.34
+  },
+  {
+    "name": "Giorgian Daniel de Arrascaeta Benedetti",
+    "position": "mei",
+    "nickname": "Arrascaeta",
+    "teamName": "Flamengo",
+    "points": 0.32
+  },
+  {
+    "name": "Igor Guilherme Barbosa da Paixão",
+    "position": "ata",
+    "nickname": "Igor Paixão",
+    "teamName": "Coritiba",
+    "points": 0.32
+  },
+  {
+    "name": "Cássio Roberto Ramos",
+    "position": "gol",
+    "nickname": "Cássio",
+    "teamName": "Corinthians",
+    "points": 0.31
+  },
+  {
+    "name": "Leonardo Carrilho Baptistão ",
+    "position": "ata",
+    "nickname": "Léo Baptistão ",
+    "teamName": "Santos",
+    "points": 0.31
+  },
+  {
+    "name": "Iago Justen Maidana Martins",
+    "position": "zag",
+    "nickname": "Iago Maidana",
+    "teamName": "América-MG",
+    "points": 0.3
+  },
+  {
+    "name": "José Rafael Vivian",
+    "position": "mei",
+    "nickname": "Zé Rafael",
+    "teamName": "Palmeiras",
+    "points": 0.3
+  },
+  {
+    "name": "Elvis Vieira Araújo",
+    "position": "mei",
+    "nickname": "Elvis",
+    "teamName": "Goiás",
+    "points": 0.29
+  },
+  {
+    "name": "Guilherme Bissoli Campos",
+    "position": "ata",
+    "nickname": "Bissoli",
+    "teamName": "Avaí",
+    "points": 0.29
+  },
+  {
+    "name": "Abner Vinícius da Silva Santos",
+    "position": "lat",
+    "nickname": "Abner Vinícius",
+    "teamName": "Athlético-PR",
+    "points": 0.28
+  },
+  {
+    "name": "Leonardo Gamalho de Souza",
+    "position": "ata",
+    "nickname": "Léo Gamalho",
+    "teamName": "Coritiba",
+    "points": 0.28
+  },
+  {
+    "name": "Róger Krug Guedes",
+    "position": "ata",
+    "nickname": "Róger Guedes",
+    "teamName": "Corinthians",
+    "points": 0.28
+  },
+  {
+    "name": "Marlon Rodrigues Freitas",
+    "position": "mei",
+    "nickname": "Marlon Freitas",
+    "teamName": "Atlético-GO",
+    "points": 0.27
+  },
+  {
+    "name": "Raul Gustavo Pereira Bicalho",
+    "position": "zag",
+    "nickname": "Raul Gustavo",
+    "teamName": "Corinthians",
+    "points": 0.27
+  },
+  {
+    "name": "Lucas Piton Crivellaro",
+    "position": "lat",
+    "nickname": "Lucas Piton",
+    "teamName": "Corinthians",
+    "points": 0.26
+  },
+  {
+    "name": "Renê Rodrigues Martins",
+    "position": "lat",
+    "nickname": "Renê",
+    "teamName": "Flamengo",
+    "points": 0.26
+  },
+  {
+    "name": "Cleiton Schwengber",
+    "position": "gol",
+    "nickname": "Cleiton",
+    "teamName": "Bragantino",
+    "points": 0.24
+  },
+  {
+    "name": "Eduardo Pereira Rodrigues",
+    "position": "ata",
+    "nickname": "Dudu",
+    "teamName": "Palmeiras",
+    "points": 0.24
+  },
+  {
+    "name": "Jonathan Calleri",
+    "position": "ata",
+    "nickname": "Calleri",
+    "teamName": "São Paulo",
+    "points": 0.24
+  },
+  {
+    "name": "Leonardo Rech Ortiz",
+    "position": "zag",
+    "nickname": "Léo Ortiz",
+    "teamName": "Bragantino",
+    "points": 0.24
+  },
+  {
+    "name": "Rafael António Figueiredo Ramos",
+    "position": "lat",
+    "nickname": "Rafael Ramos",
+    "teamName": "Corinthians",
+    "points": 0.24
+  },
+  {
+    "name": "Raúl Alejandro Cáceres Bogado",
+    "position": "lat",
+    "nickname": "Raúl Cáceres",
+    "teamName": "América-MG",
+    "points": 0.24
+  },
+  {
+    "name": "Vinícius Nelson de Souza Zanocelo",
+    "position": "mei",
+    "nickname": "Vinícius Zanocelo",
+    "teamName": "Santos",
+    "points": 0.24
+  },
+  {
+    "name": "Vítor Manuel de Oliveira Lopes Pereira",
+    "position": "tec",
+    "nickname": "Vítor Pereira",
+    "teamName": "Corinthians",
+    "points": 0.23
+  },
+  {
+    "name": "Ytalo José Oliveira dos Santos",
+    "position": "ata",
+    "nickname": "Ytalo",
+    "teamName": "Bragantino",
+    "points": 0.23
+  },
+  {
+    "name": "Ademir da Silva Santos Júnior",
+    "position": "ata",
+    "nickname": "Ademir",
+    "teamName": "Atlético-MG",
+    "points": 0.22
+  },
+  {
+    "name": "Alexandre Zurawski",
+    "position": "ata",
+    "nickname": "Alemão",
+    "teamName": "Internacional",
+    "points": 0.22
+  },
+  {
+    "name": "Fabrício Daniel de Souza",
+    "position": "ata",
+    "nickname": "Fabrício",
+    "teamName": "Coritiba",
+    "points": 0.22
+  },
+  {
+    "name": "Ignacio Martín Fernández",
+    "position": "mei",
+    "nickname": "Nacho Fernández",
+    "teamName": "Atlético-MG",
+    "points": 0.22
+  },
+  {
+    "name": "Maurício Nogueira Barbieri",
+    "position": "tec",
+    "nickname": "Maurício Barbieri",
+    "teamName": "Bragantino",
+    "points": 0.22
+  },
+  {
+    "name": "Pedro Henrique Ribeiro Gonçalves",
+    "position": "zag",
+    "nickname": "Pedro Henrique",
+    "teamName": "Athlético-PR",
+    "points": 0.22
+  },
+  {
+    "name": "Raphael Cavalcante Veiga",
+    "position": "mei",
+    "nickname": "Raphael Veiga",
+    "teamName": "Palmeiras",
+    "points": 0.22
+  },
+  {
+    "name": "Bento Matheus Krepski",
+    "position": "gol",
+    "nickname": "Bento",
+    "teamName": "Athlético-PR",
+    "points": 0.21
+  },
+  {
+    "name": "Daniel de Sousa Brito",
+    "position": "gol",
+    "nickname": "Daniel",
+    "teamName": "Internacional",
+    "points": 0.21
+  },
+  {
+    "name": "Fabián Daniel Bustos",
+    "position": "tec",
+    "nickname": "Fabián Bustos",
+    "teamName": "Santos",
+    "points": 0.21
+  },
+  {
+    "name": "Luiz Diallison de Souza Alves",
+    "position": "mei",
+    "nickname": "Apodi",
+    "teamName": "Goiás",
+    "points": 0.21
+  },
+  {
+    "name": "Paulo Henrique Chagas de Lima",
+    "position": "mei",
+    "nickname": "Ganso",
+    "teamName": "Fluminense",
+    "points": 0.21
+  },
+  {
+    "name": "Andrey Ramos do Nascimento",
+    "position": "mei",
+    "nickname": "Andrey",
+    "teamName": "Coritiba",
+    "points": 0.2
+  },
+  {
+    "name": "Carlos María de Pena Bonino",
+    "position": "ata",
+    "nickname": "Carlos de Pena",
+    "teamName": "Internacional",
+    "points": 0.2
+  },
+  {
+    "name": "Fabricio Tomás Bustos Sein",
+    "position": "lat",
+    "nickname": "Bustos",
+    "teamName": "Internacional",
+    "points": 0.2
+  },
+  {
+    "name": "Jailson Marcelino dos Santos",
+    "position": "gol",
+    "nickname": "Jailson",
+    "teamName": "América-MG",
+    "points": 0.2
+  },
+  {
+    "name": "Jefferson David Savarino Quintero",
+    "position": "ata",
+    "nickname": "Savarino",
+    "teamName": "Atlético-MG",
+    "points": 0.2
+  },
+  {
+    "name": "João Victor Santos Sá",
+    "position": "ata",
+    "nickname": "Victor Sá",
+    "teamName": "Botafogo",
+    "points": 0.2
+  },
+  {
+    "name": "João Victor da Silva Marcelino",
+    "position": "zag",
+    "nickname": "João Victor",
+    "teamName": "Corinthians",
+    "points": 0.2
+  },
+  {
+    "name": "Maicon Pereira Roque",
+    "position": "zag",
+    "nickname": "Maicon",
+    "teamName": "Santos",
+    "points": 0.2
+  },
+  {
+    "name": "Pedro Raul Garay da Silva",
+    "position": "ata",
+    "nickname": "Pedro Raul",
+    "teamName": "Goiás",
+    "points": 0.2
+  },
+  {
+    "name": "Raniele Almeida Melo",
+    "position": "mei",
+    "nickname": "Raniele",
+    "teamName": "Avaí",
+    "points": 0.2
+  },
+  {
+    "name": "Ricardo Antonio Mohamed Matijevich",
+    "position": "tec",
+    "nickname": "Antonio Mohamed",
+    "teamName": "Atlético-MG",
+    "points": 0.2
+  },
+  {
+    "name": "Ronielson da Silva Barbosa",
+    "position": "ata",
+    "nickname": "Rony",
+    "teamName": "Palmeiras",
+    "points": 0.2
+  },
+  {
+    "name": "Abel Fernando Moreira Ferreira",
+    "position": "tec",
+    "nickname": "Abel Ferreira",
+    "teamName": "Palmeiras",
+    "points": 0.19
+  },
+  {
+    "name": "Gustavo Raúl Gómez Portillo",
+    "position": "zag",
+    "nickname": "Gustavo Gómez",
+    "teamName": "Palmeiras",
+    "points": 0.19
+  },
+  {
+    "name": "Vagner Carmo Mancini",
+    "position": "tec",
+    "nickname": "Vagner Mancini",
+    "teamName": "América-MG",
+    "points": 0.19
+  },
+  {
+    "name": "Eduardo Jesús Vargas Rojas",
+    "position": "ata",
+    "nickname": "Vargas",
+    "teamName": "Atlético-MG",
+    "points": 0.18
+  },
+  {
+    "name": "Everton Augusto de Barros Ribeiro",
+    "position": "mei",
+    "nickname": "Everton Ribeiro",
+    "teamName": "Flamengo",
+    "points": 0.18
+  },
+  {
+    "name": "Federico Matías Javier Zaracho",
+    "position": "mei",
+    "nickname": "Zaracho",
+    "teamName": "Atlético-MG",
+    "points": 0.18
+  },
+  {
+    "name": "Glaybson Yago Souza Lisboa",
+    "position": "mei",
+    "nickname": "Yago Pikachu",
+    "teamName": "Fortaleza",
+    "points": 0.18
+  },
+  {
+    "name": "Gustavo Eliseo Morínigo Vázquez",
+    "position": "tec",
+    "nickname": "Gustavo Morínigo",
+    "teamName": "Coritiba",
+    "points": 0.18
+  },
+  {
+    "name": "João Victor Gomes da Silva",
+    "position": "mei",
+    "nickname": "Gomes",
+    "teamName": "Flamengo",
+    "points": 0.18
+  },
+  {
+    "name": "Lucas Pires Silva",
+    "position": "lat",
+    "nickname": "Lucas Pires",
+    "teamName": "Santos",
+    "points": 0.18
+  },
+  {
+    "name": "Luís Felipe Oyama",
+    "position": "mei",
+    "nickname": "Luís Oyama",
+    "teamName": "Botafogo",
+    "points": 0.18
+  },
+  {
+    "name": "Luís Manuel Ribeiro de Castro",
+    "position": "tec",
+    "nickname": "Luís Castro",
+    "teamName": "Botafogo",
+    "points": 0.18
+  },
+  {
+    "name": "Marcílio Florêncio Mota Filho",
+    "position": "zag",
+    "nickname": "Nino",
+    "teamName": "Fluminense",
+    "points": 0.18
+  },
+  {
+    "name": "Marllon Gonçalves Jerônimo Borges",
+    "position": "zag",
+    "nickname": "Marllon",
+    "teamName": "Cuiabá",
+    "points": 0.18
+  },
+  {
+    "name": "Renzo Saravia",
+    "position": "lat",
+    "nickname": "Saravia",
+    "teamName": "Botafogo",
+    "points": 0.18
+  },
+  {
+    "name": "Bruno César Pereira da Silva",
+    "position": "mei",
+    "nickname": "Bruno Silva",
+    "teamName": "Avaí",
+    "points": 0.17
+  },
+  {
+    "name": "Carlos Gilberto do Nascimento Silva",
+    "position": "zag",
+    "nickname": "Gil",
+    "teamName": "Corinthians",
+    "points": 0.17
+  },
+  {
+    "name": "Eduardo de Souza Barroca",
+    "position": "tec",
+    "nickname": "Eduardo Barroca",
+    "teamName": "Avaí",
+    "points": 0.17
+  },
+  {
+    "name": "Gabriel Iván Mercado",
+    "position": "zag",
+    "nickname": "Mercado",
+    "teamName": "Internacional",
+    "points": 0.17
+  },
+  {
+    "name": "Luciano da Rocha Neves",
+    "position": "ata",
+    "nickname": "Luciano",
+    "teamName": "São Paulo",
+    "points": 0.17
+  },
+  {
+    "name": "Luis Antônio Venker de Menezes",
+    "position": "tec",
+    "nickname": "Mano Menezes",
+    "teamName": "Internacional",
+    "points": 0.17
+  },
+  {
+    "name": "Matheus Felipe Santos Nascimento",
+    "position": "zag",
+    "nickname": "Matheus Felipe",
+    "teamName": "Athlético-PR",
+    "points": 0.17
+  },
+  {
+    "name": "Patric Cabral Lalau",
+    "position": "lat",
+    "nickname": "Patric",
+    "teamName": "América-MG",
+    "points": 0.17
+  },
+  {
+    "name": "Rodrigo Modesto da Silva Moledo",
+    "position": "zag",
+    "nickname": "Rodrigo Moledo",
+    "teamName": "Internacional",
+    "points": 0.17
+  },
+  {
+    "name": "Givanildo Vieira de Souza",
+    "position": "ata",
+    "nickname": "Hulk",
+    "teamName": "Atlético-MG",
+    "points": 0.16
+  },
+  {
+    "name": "Joaquín Piquerez Moreira",
+    "position": "lat",
+    "nickname": "Piquerez",
+    "teamName": "Palmeiras",
+    "points": 0.16
+  },
+  {
+    "name": "Juan Pablo Ramírez Velásquez",
+    "position": "mei",
+    "nickname": "Juan Ramírez",
+    "teamName": "América-MG",
+    "points": 0.16
+  },
+  {
+    "name": "Madson Ferreira dos Santos",
+    "position": "lat",
+    "nickname": "Madson",
+    "teamName": "Santos",
+    "points": 0.16
+  },
+  {
+    "name": "Paulo Henrique Pereira da Silva",
+    "position": "ata",
+    "nickname": "Paulinho Bóia",
+    "teamName": "América-MG",
+    "points": 0.16
+  },
+  {
+    "name": "Rafael Forster",
+    "position": "zag",
+    "nickname": "Rafael Forster",
+    "teamName": "Juventude",
+    "points": 0.16
+  },
+  {
+    "name": "Rubens Antônio Dias",
+    "position": "mei",
+    "nickname": "Rubens",
+    "teamName": "Atlético-MG",
+    "points": 0.16
+  },
+  {
+    "name": "Tadeu Antônio Ferreira",
+    "position": "gol",
+    "nickname": "Tadeu",
+    "teamName": "Goiás",
+    "points": 0.16
+  },
+  {
+    "name": "Vinicius Moreira de Lima",
+    "position": "mei",
+    "nickname": "Lima",
+    "teamName": "Ceará",
+    "points": 0.16
+  },
+  {
+    "name": "Walter Leandro Capeloza Artune",
+    "position": "gol",
+    "nickname": "Walter",
+    "teamName": "Cuiabá",
+    "points": 0.16
+  },
+  {
+    "name": "Willian Roberto Farias",
+    "position": "mei",
+    "nickname": "Willian Farias",
+    "teamName": "Coritiba",
+    "points": 0.16
+  },
+  {
+    "name": "Aderlan de Lima Silva",
+    "position": "lat",
+    "nickname": "Aderlan",
+    "teamName": "Bragantino",
+    "points": 0.15
+  },
+  {
+    "name": "Alesson dos Santos Batista",
+    "position": "ata",
+    "nickname": "Alesson",
+    "teamName": "Cuiabá",
+    "points": 0.15
+  },
+  {
+    "name": "Daniel Fortunato Borges",
+    "position": "lat",
+    "nickname": "Daniel Borges",
+    "teamName": "Botafogo",
+    "points": 0.15
+  },
+  {
+    "name": "Gustavo Nonato Santana",
+    "position": "mei",
+    "nickname": "Nonato",
+    "teamName": "Fluminense",
+    "points": 0.15
+  },
+  {
+    "name": "Jadsom Meemyas de Oliveira da Silva",
+    "position": "mei",
+    "nickname": "Jadsom Silva",
+    "teamName": "Bragantino",
+    "points": 0.15
+  },
+  {
+    "name": "João Ricardo Riedi",
+    "position": "gol",
+    "nickname": "João Ricardo",
+    "teamName": "Ceará",
+    "points": 0.15
+  },
+  {
+    "name": "Luiz Carlos de Oliveira Preto",
+    "position": "tec",
+    "nickname": "Pintado",
+    "teamName": "Cuiabá",
+    "points": 0.15
+  },
+  {
+    "name": "Luiz Henrique André Rosa da Silva",
+    "position": "ata",
+    "nickname": "Luiz Henrique",
+    "teamName": "Fluminense",
+    "points": 0.15
+  },
+  {
+    "name": "Natan Bernardo de Souza",
+    "position": "zag",
+    "nickname": "Natan",
+    "teamName": "Bragantino",
+    "points": 0.15
+  },
+  {
+    "name": "Patrick de Paula Carreiro",
+    "position": "mei",
+    "nickname": "Patrick de Paula",
+    "teamName": "Botafogo",
+    "points": 0.15
+  },
+  {
+    "name": "Paulo Manuel Carvalho Sousa",
+    "position": "tec",
+    "nickname": "Paulo Sousa",
+    "teamName": "Flamengo",
+    "points": 0.15
+  },
+  {
+    "name": "Roberto Junior Fernández Torres",
+    "position": "gol",
+    "nickname": "Gatito Fernández",
+    "teamName": "Botafogo",
+    "points": 0.15
+  },
+  {
+    "name": "Andrew Erik Feitosa",
+    "position": "ata",
+    "nickname": "Morato",
+    "teamName": "Avaí",
+    "points": 0.14
+  },
+  {
+    "name": "Bruno Conceição Praxedes",
+    "position": "mei",
+    "nickname": "Praxedes",
+    "teamName": "Bragantino",
+    "points": 0.14
+  },
+  {
+    "name": "Diego Gonçalves",
+    "position": "ata",
+    "nickname": "Diego Gonçalves",
+    "teamName": "Botafogo",
+    "points": 0.14
+  },
+  {
+    "name": "Eduardo Jacinto de Biasi",
+    "position": "mei",
+    "nickname": "Eduardo",
+    "teamName": "Avaí",
+    "points": 0.14
+  },
+  {
+    "name": "Felipe Azevedo dos Santos",
+    "position": "ata",
+    "nickname": "Felipe Azevedo",
+    "teamName": "América-MG",
+    "points": 0.14
+  },
+  {
+    "name": "Fábio Deivson Lopes Maciel",
+    "position": "gol",
+    "nickname": "Fábio",
+    "teamName": "Fluminense",
+    "points": 0.14
+  },
+  {
+    "name": "Gabriel Baralhas dos Santos",
+    "position": "mei",
+    "nickname": "Baralhas",
+    "teamName": "Atlético-GO",
+    "points": 0.14
+  },
+  {
+    "name": "Hugo Moura Arruda da Silva",
+    "position": "mei",
+    "nickname": "Hugo Moura",
+    "teamName": "Athlético-PR",
+    "points": 0.14
+  },
+  {
+    "name": "Jair Ventura",
+    "position": "tec",
+    "nickname": "Jair Ventura",
+    "teamName": "Goiás",
+    "points": 0.14
+  },
+  {
+    "name": "Junior Osmar Ignacio Alonso Mujica",
+    "position": "zag",
+    "nickname": "Junior Alonso",
+    "teamName": "Atlético-MG",
+    "points": 0.14
+  },
+  {
+    "name": "Leonardo Augusto dos Santos Pereira",
+    "position": "ata",
+    "nickname": "Léo Pereira",
+    "teamName": "Atlético-GO",
+    "points": 0.14
+  },
+  {
+    "name": "Marcos Luis Rocha Aquino",
+    "position": "lat",
+    "nickname": "Marcos Rocha",
+    "teamName": "Palmeiras",
+    "points": 0.14
+  },
+  {
+    "name": "Matheus Alexandre Anastácio de Souza",
+    "position": "lat",
+    "nickname": "Matheus Alexandre",
+    "teamName": "Coritiba",
+    "points": 0.14
+  },
+  {
+    "name": "Matheus Simonete Bressanelli",
+    "position": "zag",
+    "nickname": "Bressan",
+    "teamName": "Avaí",
+    "points": 0.14
+  },
+  {
+    "name": "Rodrigo Eduardo Costa Marinho",
+    "position": "mei",
+    "nickname": "Rodriguinho",
+    "teamName": "Cuiabá",
+    "points": 0.14
+  },
+  {
+    "name": "Wanderson Ferreira de Oliveira",
+    "position": "mei",
+    "nickname": "Valdívia",
+    "teamName": "Cuiabá",
+    "points": 0.14
+  },
+  {
+    "name": "Brayan Dennis Angulo Tenorio",
+    "position": "ata",
+    "nickname": "Bryan Angulo",
+    "teamName": "Santos",
+    "points": 0.13
+  },
+  {
+    "name": "Bruno Nunes de Barros",
+    "position": "ata",
+    "nickname": "Bruno Tubarão",
+    "teamName": "Bragantino",
+    "points": 0.13
+  },
+  {
+    "name": "Gabriel Girotto Franco",
+    "position": "mei",
+    "nickname": "Gabriel",
+    "teamName": "Internacional",
+    "points": 0.13
+  },
+  {
+    "name": "Igor Silveira Gomes",
+    "position": "mei",
+    "nickname": "Igor Gomes",
+    "teamName": "São Paulo",
+    "points": 0.13
+  },
+  {
+    "name": "João Paulo Silva Martins",
+    "position": "gol",
+    "nickname": "João Paulo",
+    "teamName": "Santos",
+    "points": 0.13
+  },
+  {
+    "name": "Luan Cândido de Almeida",
+    "position": "lat",
+    "nickname": "Luan Cândido",
+    "teamName": "Bragantino",
+    "points": 0.13
+  },
+  {
+    "name": "Luis Manuel Orejuela García",
+    "position": "lat",
+    "nickname": "Orejuela",
+    "teamName": "Athlético-PR",
+    "points": 0.13
+  },
+  {
+    "name": "Miguel David Terans Pérez  ",
+    "position": "mei",
+    "nickname": "Terans",
+    "teamName": "Athlético-PR",
+    "points": 0.13
+  },
+  {
+    "name": "Patrick Bezerra do Nascimento",
+    "position": "mei",
+    "nickname": "Patrick",
+    "teamName": "São Paulo",
+    "points": 0.13
+  },
+  {
+    "name": "Rogério Ceni",
+    "position": "tec",
+    "nickname": "Rogério Ceni",
+    "teamName": "São Paulo",
+    "points": 0.13
+  },
+  {
+    "name": "Uendel Pereira Gonçalves",
+    "position": "lat",
+    "nickname": "Uendel",
+    "teamName": "Cuiabá",
+    "points": 0.13
+  },
+  {
+    "name": "Alan Pereira Empereur",
+    "position": "zag",
+    "nickname": "Alan Empereur",
+    "teamName": "Cuiabá",
+    "points": 0.12
+  },
+  {
+    "name": "Eder Citadin Martins",
+    "position": "ata",
+    "nickname": "Eder",
+    "teamName": "São Paulo",
+    "points": 0.12
+  },
+  {
+    "name": "Eduardo Augusto Baptista Miguel",
+    "position": "tec",
+    "nickname": "Eduardo Baptista",
+    "teamName": "Juventude",
+    "points": 0.12
+  },
+  {
+    "name": "Eduardo Gabriel dos Santos Bauermann",
+    "position": "zag",
+    "nickname": "Eduardo Bauermann",
+    "teamName": "Santos",
+    "points": 0.12
+  },
+  {
+    "name": "Everaldo Silva do Nascimento",
+    "position": "ata",
+    "nickname": "Everaldo ",
+    "teamName": "América-MG",
+    "points": 0.12
+  },
+  {
+    "name": "Fábio Luiz Carille de Araújo",
+    "position": "tec",
+    "nickname": "Fábio Carille",
+    "teamName": "Athlético-PR",
+    "points": 0.12
+  },
+  {
+    "name": "Isidro Miguel Pitta Saldívar ",
+    "position": "ata",
+    "nickname": "Pitta",
+    "teamName": "Juventude",
+    "points": 0.12
+  },
+  {
+    "name": "Jair Rodrigues Júnior",
+    "position": "mei",
+    "nickname": "Jair",
+    "teamName": "Atlético-MG",
+    "points": 0.12
+  },
+  {
+    "name": "Jorge de Moura Xavier",
+    "position": "mei",
+    "nickname": "Jorginho",
+    "teamName": "Atlético-GO",
+    "points": 0.12
+  },
+  {
+    "name": "João Paulo Gomes da Costa",
+    "position": "lat",
+    "nickname": "João Paulo",
+    "teamName": "América-MG",
+    "points": 0.12
+  },
+  {
+    "name": "Marcos Vinicios Moura",
+    "position": "ata",
+    "nickname": "Sorriso",
+    "teamName": "Bragantino",
+    "points": 0.12
+  },
+  {
+    "name": "Marcos Vinícius Sousa Natividade",
+    "position": "ata",
+    "nickname": "Marquinhos",
+    "teamName": "Cuiabá",
+    "points": 0.12
+  },
+  {
+    "name": "Murilo Cerqueira Paim",
+    "position": "zag",
+    "nickname": "Murilo",
+    "teamName": "Palmeiras",
+    "points": 0.12
+  },
+  {
+    "name": "Mário Sérgio Santos Costa",
+    "position": "ata",
+    "nickname": "Marinho",
+    "teamName": "Flamengo",
+    "points": 0.12
+  },
+  {
+    "name": "Renato Soares de Oliveira Augusto",
+    "position": "mei",
+    "nickname": "Renato Augusto",
+    "teamName": "Corinthians",
+    "points": 0.12
+  },
+  {
+    "name": "Umberto Lourenço Louzer Filho",
+    "position": "tec",
+    "nickname": "Umberto Louzer",
+    "teamName": "Atlético-GO",
+    "points": 0.12
+  },
+  {
+    "name": "Vitor Hugo Naum dos Santos",
+    "position": "ata",
+    "nickname": "Vitinho",
+    "teamName": "Athlético-PR",
+    "points": 0.12
+  },
+  {
+    "name": "Welington Damascena Santos",
+    "position": "lat",
+    "nickname": "Welington ",
+    "teamName": "São Paulo",
+    "points": 0.12
+  },
+  {
+    "name": "Alerrandro Barra Mansa Realino de Souza",
+    "position": "ata",
+    "nickname": "Alerrandro",
+    "teamName": "Bragantino",
+    "points": 0.11
+  },
+  {
+    "name": "Douglas Alan Schuck Friedrich",
+    "position": "gol",
+    "nickname": "Douglas Friedrich",
+    "teamName": "Avaí",
+    "points": 0.11
+  },
+  {
+    "name": "Edenílson Andrade dos Santos",
+    "position": "mei",
+    "nickname": "Edenílson",
+    "teamName": "Internacional",
+    "points": 0.11
+  },
+  {
+    "name": "Elton Rodrigues Brandão",
+    "position": "ata",
+    "nickname": "Elton",
+    "teamName": "Cuiabá",
+    "points": 0.11
+  },
+  {
+    "name": "Everson Felipe Marques Pires",
+    "position": "gol",
+    "nickname": "Everson",
+    "teamName": "Atlético-MG",
+    "points": 0.11
+  },
+  {
+    "name": "Gabriel Barbosa Almeida",
+    "position": "ata",
+    "nickname": "Gabriel",
+    "teamName": "Flamengo",
+    "points": 0.11
+  },
+  {
+    "name": "Germán Andrés Conti",
+    "position": "zag",
+    "nickname": "Conti",
+    "teamName": "América-MG",
+    "points": 0.11
+  },
+  {
+    "name": "Germán Ezequiel Cano",
+    "position": "ata",
+    "nickname": "Cano",
+    "teamName": "Fluminense",
+    "points": 0.11
+  },
+  {
+    "name": "Guilherme Antonio Arana Lopes",
+    "position": "lat",
+    "nickname": "Guilherme Arana",
+    "teamName": "Atlético-MG",
+    "points": 0.11
+  },
+  {
+    "name": "Jadson Alves dos Santos",
+    "position": "mei",
+    "nickname": "Jadson",
+    "teamName": "Juventude",
+    "points": 0.11
+  },
+  {
+    "name": "Mariano Ferreira Filho",
+    "position": "lat",
+    "nickname": "Mariano",
+    "teamName": "Atlético-MG",
+    "points": 0.11
+  },
+  {
+    "name": "Moisés Vieira da Veiga",
+    "position": "ata",
+    "nickname": "Moisés",
+    "teamName": "Fortaleza",
+    "points": 0.11
+  },
+  {
+    "name": "Pedro Gabriel Pereira Lopes",
+    "position": "ata",
+    "nickname": "Pedrinho",
+    "teamName": "América-MG",
+    "points": 0.11
+  },
+  {
+    "name": "Richard Cândido Coelho",
+    "position": "mei",
+    "nickname": "Richard Coelho",
+    "teamName": "Ceará",
+    "points": 0.11
+  },
+  {
+    "name": "Robson Alves de Barros",
+    "position": "zag",
+    "nickname": "Robson Bambu",
+    "teamName": "Corinthians",
+    "points": 0.11
+  },
+  {
+    "name": "Weverton Pereira da Silva",
+    "position": "gol",
+    "nickname": "Weverton",
+    "teamName": "Palmeiras",
+    "points": 0.11
+  },
+  {
+    "name": "Ângelo Gabriel Borges Damaceno",
+    "position": "ata",
+    "nickname": "Ângelo",
+    "teamName": "Santos",
+    "points": 0.11
+  },
+  {
+    "name": "Óscar Ramón Ruiz Roa",
+    "position": "ata",
+    "nickname": "Óscar Ruíz",
+    "teamName": "Juventude",
+    "points": 0.11
+  },
+  {
+    "name": "Alisson Euler de Freitas Castro",
+    "position": "mei",
+    "nickname": "Alisson",
+    "teamName": "São Paulo",
+    "points": 0.1
+  },
+  {
+    "name": "Bruno Henrique Pinto",
+    "position": "ata",
+    "nickname": "Bruno Henrique",
+    "teamName": "Flamengo",
+    "points": 0.1
+  },
+  {
+    "name": "Egídio de Araújo Pereira Júnior",
+    "position": "lat",
+    "nickname": "Egídio",
+    "teamName": "Coritiba",
+    "points": 0.1
+  },
+  {
+    "name": "Francisco Hyun Sol Kim",
+    "position": "mei",
+    "nickname": "Chico",
+    "teamName": "Juventude",
+    "points": 0.1
+  },
+  {
+    "name": "Guilherme Parede Pinheiro",
+    "position": "ata",
+    "nickname": "Guilherme Parede",
+    "teamName": "Juventude",
+    "points": 0.1
+  },
+  {
+    "name": "Hércules Pereira do Nascimento",
+    "position": "mei",
+    "nickname": "Hércules",
+    "teamName": "Fortaleza",
+    "points": 0.1
+  },
+  {
+    "name": "João Pedro Vilardi Pinto",
+    "position": "mei",
+    "nickname": "Pepê",
+    "teamName": "Cuiabá",
+    "points": 0.1
+  },
+  {
+    "name": "Lucas Evangelista Santana de Oliveira",
+    "position": "mei",
+    "nickname": "Lucas Evangelista",
+    "teamName": "Bragantino",
+    "points": 0.1
+  },
+  {
+    "name": "Lucas Felipe Calegari",
+    "position": "lat",
+    "nickname": "Calegari",
+    "teamName": "Fluminense",
+    "points": 0.1
+  },
+  {
+    "name": "Maycon de Andrade Barberan",
+    "position": "mei",
+    "nickname": "Maycon",
+    "teamName": "Corinthians",
+    "points": 0.1
+  },
+  {
+    "name": "Reynaldo César Moraes",
+    "position": "zag",
+    "nickname": "Reynaldo",
+    "teamName": "Goiás",
+    "points": 0.1
+  },
+  {
+    "name": "Sidnei Rechel da Silva Júnior",
+    "position": "zag",
+    "nickname": "Sidnei",
+    "teamName": "Goiás",
+    "points": 0.1
+  },
+  {
+    "name": "Adrián Emmanuel Martínez",
+    "position": "ata",
+    "nickname": "Adrián Martínez",
+    "teamName": "Coritiba",
+    "points": 0.09
+  },
+  {
+    "name": "Chayene Medeiros Oliveira",
+    "position": "mei",
+    "nickname": "Chay",
+    "teamName": "Botafogo",
+    "points": 0.09
+  },
+  {
+    "name": "Emiliano Daniel Velázquez Maldonado",
+    "position": "zag",
+    "nickname": "Velázquez",
+    "teamName": "Santos",
+    "points": 0.09
+  },
+  {
+    "name": "Hyoran Kaue Dalmoro",
+    "position": "mei",
+    "nickname": "Hyoran",
+    "teamName": "Bragantino",
+    "points": 0.09
+  },
+  {
+    "name": "Jackson Diego Ibrahim Fagundes",
+    "position": "mei",
+    "nickname": "Diego",
+    "teamName": "Goiás",
+    "points": 0.09
+  },
+  {
+    "name": "Matheus Fernandes Siqueira",
+    "position": "mei",
+    "nickname": "Matheus Fernandes",
+    "teamName": "Athlético-PR",
+    "points": 0.09
+  },
+  {
+    "name": "Maurício Magalhães Prado",
+    "position": "mei",
+    "nickname": "Maurício",
+    "teamName": "Internacional",
+    "points": 0.09
+  },
+  {
+    "name": "Nathanael Ananias da Silva",
+    "position": "zag",
+    "nickname": "Nathan Silva",
+    "teamName": "Atlético-MG",
+    "points": 0.09
+  },
+  {
+    "name": "Rwan Philipe Rodrigues de Souza Cruz",
+    "position": "ata",
+    "nickname": "Rwan",
+    "teamName": "Santos",
+    "points": 0.09
+  },
+  {
+    "name": "Víctor Danilo Cantillo Jiménez",
+    "position": "mei",
+    "nickname": "Cantillo",
+    "teamName": "Corinthians",
+    "points": 0.09
+  },
+  {
+    "name": "Víctor Leandro Cuesta",
+    "position": "zag",
+    "nickname": "Víctor Cuesta",
+    "teamName": "Botafogo",
+    "points": 0.09
+  },
+  {
+    "name": "Alef Mangueira Severino Pereira",
+    "position": "ata",
+    "nickname": "Alef Manga",
+    "teamName": "Coritiba",
+    "points": 0.08
+  },
+  {
+    "name": "Alex Roberto Santana Rafael ",
+    "position": "gol",
+    "nickname": "Alex Muralha",
+    "teamName": "Coritiba",
+    "points": 0.08
+  },
+  {
+    "name": "Arthur Largura Chaves",
+    "position": "zag",
+    "nickname": "Arthur Chaves",
+    "teamName": "Avaí",
+    "points": 0.08
+  },
+  {
+    "name": "Eduardo Santos Queiroz",
+    "position": "mei",
+    "nickname": "Du Queiroz",
+    "teamName": "Corinthians",
+    "points": 0.08
+  },
+  {
+    "name": "Everton Cardoso da Silva",
+    "position": "mei",
+    "nickname": "Everton",
+    "teamName": "Cuiabá",
+    "points": 0.08
+  },
+  {
+    "name": "Gabriel Dal Toé Busanello",
+    "position": "lat",
+    "nickname": "Busanello",
+    "teamName": "Juventude",
+    "points": 0.08
+  },
+  {
+    "name": "João Lucas de Almeida Carvalho",
+    "position": "lat",
+    "nickname": "João Lucas",
+    "teamName": "Cuiabá",
+    "points": 0.08
+  },
+  {
+    "name": "Luis Antônio da Rocha Júnior",
+    "position": "lat",
+    "nickname": "Juninho Capixaba",
+    "teamName": "Fortaleza",
+    "points": 0.08
+  },
+  {
+    "name": "Lázaro Vinicius Marques",
+    "position": "mei",
+    "nickname": "Lázaro",
+    "teamName": "Flamengo",
+    "points": 0.08
+  },
+  {
+    "name": "Marcelo da Conceição Benevenuto Malaquias",
+    "position": "zag",
+    "nickname": "Marcelo Benevenuto",
+    "teamName": "Fortaleza",
+    "points": 0.08
+  },
+  {
+    "name": "Pedro Henrique Konzen Medina da Silva",
+    "position": "ata",
+    "nickname": "Pedro Henrique",
+    "teamName": "Internacional",
+    "points": 0.08
+  },
+  {
+    "name": "Rafael Navarro Leal",
+    "position": "ata",
+    "nickname": "Rafael Navarro",
+    "teamName": "Palmeiras",
+    "points": 0.08
+  },
+  {
+    "name": "Renan Victor da Silva",
+    "position": "zag",
+    "nickname": "Renan",
+    "teamName": "Bragantino",
+    "points": 0.08
+  },
+  {
+    "name": "Rodrigo Nestor Bertalia",
+    "position": "mei",
+    "nickname": "Rodrigo Nestor",
+    "teamName": "São Paulo",
+    "points": 0.08
+  },
+  {
+    "name": "Rômulo Zanre Zwarg",
+    "position": "mei",
+    "nickname": "Rômulo",
+    "teamName": "Juventude",
+    "points": 0.08
+  },
+  {
+    "name": "Victor Hugo Soares dos Santos",
+    "position": "zag",
+    "nickname": "Kanu",
+    "teamName": "Botafogo",
+    "points": 0.08
+  },
+  {
+    "name": "Vitor Eduardo da Silva Matos",
+    "position": "zag",
+    "nickname": "Vitão",
+    "teamName": "Internacional",
+    "points": 0.08
+  },
+  {
+    "name": "Abel Carlos da Silva Braga",
+    "position": "tec",
+    "nickname": "Abel Braga",
+    "teamName": "Fluminense",
+    "points": 0.07
+  },
+  {
+    "name": "Adilson dos Anjos Oliveira",
+    "position": "mei",
+    "nickname": "Juninho",
+    "teamName": "América-MG",
+    "points": 0.07
+  },
+  {
+    "name": "Alexandre Egea",
+    "position": "mei",
+    "nickname": "Alê",
+    "teamName": "América-MG",
+    "points": 0.07
+  },
+  {
+    "name": "Andrés Felipe Colorado Sánchez",
+    "position": "mei",
+    "nickname": "Andrés",
+    "teamName": "São Paulo",
+    "points": 0.07
+  },
+  {
+    "name": "Bruno Méndez Cittadini",
+    "position": "zag",
+    "nickname": "Bruno Méndez",
+    "teamName": "Internacional",
+    "points": 0.07
+  },
+  {
+    "name": "Dorival Silvestre Júnior",
+    "position": "tec",
+    "nickname": "Dorival Júnior",
+    "teamName": "Ceará",
+    "points": 0.07
+  },
+  {
+    "name": "Filipe Luís Kasmirski",
+    "position": "lat",
+    "nickname": "Filipe Luís",
+    "teamName": "Flamengo",
+    "points": 0.07
+  },
+  {
+    "name": "Gabriel Boschilia",
+    "position": "mei",
+    "nickname": "Boschilia",
+    "teamName": "Internacional",
+    "points": 0.07
+  },
+  {
+    "name": "Gabriel Veron Fonseca de Souza",
+    "position": "ata",
+    "nickname": "Gabriel Veron",
+    "teamName": "Palmeiras",
+    "points": 0.07
+  },
+  {
+    "name": "Gustavo Henrique Furtado Scarpa",
+    "position": "mei",
+    "nickname": "Gustavo Scarpa",
+    "teamName": "Palmeiras",
+    "points": 0.07
+  },
+  {
+    "name": "Gustavo Mantuan",
+    "position": "mei",
+    "nickname": "Gustavo Mantuan",
+    "teamName": "Corinthians",
+    "points": 0.07
+  },
+  {
+    "name": "Juan Pablo Vojvoda Rizzo",
+    "position": "tec",
+    "nickname": "Juan Vojvoda",
+    "teamName": "Fortaleza",
+    "points": 0.07
+  },
+  {
+    "name": "Luiz Fernando Moraes dos Santos",
+    "position": "ata",
+    "nickname": "Luiz Fernando ",
+    "teamName": "Botafogo",
+    "points": 0.07
+  },
+  {
+    "name": "Marcos Antônio Almeida Silva",
+    "position": "mei",
+    "nickname": "Marcão Silva",
+    "teamName": "Cuiabá",
+    "points": 0.07
+  },
+  {
+    "name": "Miguel Silveira dos Santos",
+    "position": "mei",
+    "nickname": "Miguel",
+    "teamName": "Bragantino",
+    "points": 0.07
+  },
+  {
+    "name": "Pablo Gonçalves Maia Fortunato",
+    "position": "mei",
+    "nickname": "Pablo Maia",
+    "teamName": "São Paulo",
+    "points": 0.07
+  },
+  {
+    "name": "Rodrigo Dourado Cunha",
+    "position": "mei",
+    "nickname": "Rodrigo Dourado",
+    "teamName": "Internacional",
+    "points": 0.07
+  },
+  {
+    "name": "Wellington Soares da Silva",
+    "position": "mei",
+    "nickname": "Wellington Rato",
+    "teamName": "Atlético-GO",
+    "points": 0.07
+  },
+  {
+    "name": "Willian Souza Arão da Silva",
+    "position": "mei",
+    "nickname": "Willian Arão",
+    "teamName": "Flamengo",
+    "points": 0.07
+  },
+  {
+    "name": "Adson Ferreira Soares",
+    "position": "mei",
+    "nickname": "Adson",
+    "teamName": "Corinthians",
+    "points": 0.06
+  },
+  {
+    "name": "Agustín Canobbio Graviz",
+    "position": "ata",
+    "nickname": "Canobbio",
+    "teamName": "Athlético-PR",
+    "points": 0.06
+  },
+  {
+    "name": "Airton Moisés Santos Sousa",
+    "position": "ata",
+    "nickname": "Airton",
+    "teamName": "Atlético-GO",
+    "points": 0.06
+  },
+  {
+    "name": "André Trindade da Costa Neto",
+    "position": "mei",
+    "nickname": "André",
+    "teamName": "Fluminense",
+    "points": 0.06
+  },
+  {
+    "name": "Andrés Nicolas D\u0027Alessandro",
+    "position": "mei",
+    "nickname": "D\u0027Alessandro",
+    "teamName": "Internacional",
+    "points": 0.06
+  },
+  {
+    "name": "Bruno Cortês Barbosa",
+    "position": "lat",
+    "nickname": "Bruno Cortez",
+    "teamName": "Avaí",
+    "points": 0.06
+  },
+  {
+    "name": "Caio Fernando de Oliveira",
+    "position": "ata",
+    "nickname": "Caio Paulista",
+    "teamName": "Fluminense",
+    "points": 0.06
+  },
+  {
+    "name": "Cristhian Yonaiker Rivas Vielma - Cristian",
+    "position": "mei",
+    "nickname": "Rivas",
+    "teamName": "Cuiabá",
+    "points": 0.06
+  },
+  {
+    "name": "Cristiano da Silva Leite ",
+    "position": "lat",
+    "nickname": "Cristiano",
+    "teamName": "Fluminense",
+    "points": 0.06
+  },
+  {
+    "name": "César Augusto Soares dos Reis Ribela",
+    "position": "gol",
+    "nickname": "César",
+    "teamName": "Juventude",
+    "points": 0.06
+  },
+  {
+    "name": "Hugo Gonçalves Ferreira Neto",
+    "position": "lat",
+    "nickname": "Hugo",
+    "teamName": "Botafogo",
+    "points": 0.06
+  },
+  {
+    "name": "Jandrei Chitolina Carniel",
+    "position": "gol",
+    "nickname": "Jandrei",
+    "teamName": "São Paulo",
+    "points": 0.06
+  },
+  {
+    "name": "Jhojan Esmaides Julio Palacios",
+    "position": "ata",
+    "nickname": "Jhojan Julio",
+    "teamName": "Santos",
+    "points": 0.06
+  },
+  {
+    "name": "John Stiven Mendoza Valencia",
+    "position": "ata",
+    "nickname": "Mendoza",
+    "teamName": "Ceará",
+    "points": 0.06
+  },
+  {
+    "name": "José Andrés Hurtado Cheme",
+    "position": "lat",
+    "nickname": "Andrés Hurtado",
+    "teamName": "Bragantino",
+    "points": 0.06
+  },
+  {
+    "name": "Kevin Peterson dos Santos Silva",
+    "position": "lat",
+    "nickname": "Kevin ",
+    "teamName": "Avaí",
+    "points": 0.06
+  },
+  {
+    "name": "Leonardo Cittadini",
+    "position": "mei",
+    "nickname": "Léo Cittadini",
+    "teamName": "Athlético-PR",
+    "points": 0.06
+  },
+  {
+    "name": "Matheus Leonardo Sales Cardoso",
+    "position": "mei",
+    "nickname": "Matheusinho",
+    "teamName": "América-MG",
+    "points": 0.06
+  },
+  {
+    "name": "Mauricio Aníbal Isla Isla",
+    "position": "lat",
+    "nickname": "Isla",
+    "teamName": "Flamengo",
+    "points": 0.06
+  },
+  {
+    "name": "Robert Abel Arboleda Escobar",
+    "position": "zag",
+    "nickname": "Arboleda",
+    "teamName": "São Paulo",
+    "points": 0.06
+  },
+  {
+    "name": "Ronaldo de Oliveira Strada",
+    "position": "gol",
+    "nickname": "Ronaldo",
+    "teamName": "Atlético-GO",
+    "points": 0.06
+  },
+  {
+    "name": "Sidimar Fernando Cigolini",
+    "position": "zag",
+    "nickname": "Sidimar",
+    "teamName": "Goiás",
+    "points": 0.06
+  },
+  {
+    "name": "Adaílson Freire Pereira da Silva",
+    "position": "ata",
+    "nickname": "Dadá Belmonte",
+    "teamName": "Goiás",
+    "points": 0.05
+  },
+  {
+    "name": "Allan Rodrigues de Souza",
+    "position": "mei",
+    "nickname": "Allan",
+    "teamName": "Atlético-MG",
+    "points": 0.05
+  },
+  {
+    "name": "André Anderson Pomilio Lima",
+    "position": "mei",
+    "nickname": "André Anderson",
+    "teamName": "São Paulo",
+    "points": 0.05
+  },
+  {
+    "name": "Arthur Henrique Peixoto Santos",
+    "position": "lat",
+    "nickname": "Arthur Henrique",
+    "teamName": "Atlético-GO",
+    "points": 0.05
+  },
+  {
+    "name": "Benjamín Kuscevic Jaramillo",
+    "position": "zag",
+    "nickname": "Kuscevic",
+    "teamName": "Palmeiras",
+    "points": 0.05
+  },
+  {
+    "name": "Bruno Ferreira Melo",
+    "position": "lat",
+    "nickname": "Bruno Melo",
+    "teamName": "Corinthians",
+    "points": 0.05
+  },
+  {
+    "name": "Cláudio Rodrigues Gomes",
+    "position": "lat",
+    "nickname": "Guga",
+    "teamName": "Atlético-MG",
+    "points": 0.05
+  },
+  {
+    "name": "Diego Churín Puyo",
+    "position": "ata",
+    "nickname": "Churín",
+    "teamName": "Atlético-GO",
+    "points": 0.05
+  },
+  {
+    "name": "Edson Felipe da Cruz",
+    "position": "mei",
+    "nickname": "Edson ",
+    "teamName": "Atlético-GO",
+    "points": 0.05
+  },
+  {
+    "name": "Eduardo Colcenti Antunes",
+    "position": "ata",
+    "nickname": "Eduardo Sasha",
+    "teamName": "Atlético-MG",
+    "points": 0.05
+  },
+  {
+    "name": "Gabriel Santos Cordeiro Lacerda",
+    "position": "zag",
+    "nickname": "Gabriel Lacerda",
+    "teamName": "Ceará",
+    "points": 0.05
+  },
+  {
+    "name": "Guilherme de Jesus da Silva",
+    "position": "lat",
+    "nickname": "Tinga",
+    "teamName": "Fortaleza",
+    "points": 0.05
+  },
+  {
+    "name": "Gustavo Affonso Sauerbeck",
+    "position": "ata",
+    "nickname": "Gustavo Sauer",
+    "teamName": "Botafogo",
+    "points": 0.05
+  },
+  {
+    "name": "Hayner Willian Monjardim Cordeiro",
+    "position": "lat",
+    "nickname": "Hayner",
+    "teamName": "Atlético-GO",
+    "points": 0.05
+  },
+  {
+    "name": "Jefferson Junio Antônio da Silva",
+    "position": "lat",
+    "nickname": "Jefferson",
+    "teamName": "Atlético-GO",
+    "points": 0.05
+  },
+  {
+    "name": "Kevin Lomónaco",
+    "position": "zag",
+    "nickname": "Lomónaco",
+    "teamName": "Bragantino",
+    "points": 0.05
+  },
+  {
+    "name": "Khellven Douglas Silva Oliveira",
+    "position": "lat",
+    "nickname": "Khellven ",
+    "teamName": "Athlético-PR",
+    "points": 0.05
+  },
+  {
+    "name": "Luciano Castán da Silva",
+    "position": "zag",
+    "nickname": "Luciano Castán",
+    "teamName": "Coritiba",
+    "points": 0.05
+  },
+  {
+    "name": "Magno José da Silva",
+    "position": "lat",
+    "nickname": "Maguinho",
+    "teamName": "Goiás",
+    "points": 0.05
+  },
+  {
+    "name": "Manoel Messias Silva Carvalho",
+    "position": "zag",
+    "nickname": "Manoel",
+    "teamName": "Fluminense",
+    "points": 0.05
+  },
+  {
+    "name": "Matheus de Sales Cabral",
+    "position": "mei",
+    "nickname": "Matheus Sales",
+    "teamName": "Coritiba",
+    "points": 0.05
+  },
+  {
+    "name": "Mayke Rocha de Oliveira",
+    "position": "lat",
+    "nickname": "Mayke",
+    "teamName": "Palmeiras",
+    "points": 0.05
+  },
+  {
+    "name": "Márcio Antônio de Sousa Júnior",
+    "position": "ata",
+    "nickname": "Marcinho",
+    "teamName": "Avaí",
+    "points": 0.05
+  },
+  {
+    "name": "Márcio Rafael Ferreira de Souza",
+    "position": "lat",
+    "nickname": "Rafinha",
+    "teamName": "São Paulo",
+    "points": 0.05
+  },
+  {
+    "name": "Robson dos Santos Fernandes",
+    "position": "ata",
+    "nickname": "Robson",
+    "teamName": "Fortaleza",
+    "points": 0.05
+  },
+  {
+    "name": "Rodinei Marcelo de Almeida",
+    "position": "lat",
+    "nickname": "Rodinei",
+    "teamName": "Flamengo",
+    "points": 0.05
+  },
+  {
+    "name": "Samuel Xavier Brito",
+    "position": "lat",
+    "nickname": "Samuel Xavier",
+    "teamName": "Fluminense",
+    "points": 0.05
+  },
+  {
+    "name": "Thiago Maia Alencar",
+    "position": "mei",
+    "nickname": "Thiago Maia",
+    "teamName": "Flamengo",
+    "points": 0.05
+  },
+  {
+    "name": "Valdemir de Oliveira Soares",
+    "position": "mei",
+    "nickname": "Val",
+    "teamName": "Coritiba",
+    "points": 0.05
+  },
+  {
+    "name": "Wanderson Santos Pereira",
+    "position": "zag",
+    "nickname": "Wanderson",
+    "teamName": "Atlético-GO",
+    "points": 0.05
+  },
+  {
+    "name": "William Matheus da Silva",
+    "position": "lat",
+    "nickname": "William Matheus",
+    "teamName": "Juventude",
+    "points": 0.05
+  },
+  {
+    "name": "Yago Felipe da Costa Rocha",
+    "position": "mei",
+    "nickname": "Yago Felipe",
+    "teamName": "Fluminense",
+    "points": 0.05
+  },
+  {
+    "name": "Andreas Hugo Hoelgebaum Pereira",
+    "position": "mei",
+    "nickname": "Andreas Pereira",
+    "teamName": "Flamengo",
+    "points": 0.04
+  },
+  {
+    "name": "Carlos Eduardo Ferreira de Souza",
+    "position": "ata",
+    "nickname": "Carlos Eduardo",
+    "teamName": "Bragantino",
+    "points": 0.04
+  },
+  {
+    "name": "Cauan Felipe de Almeida",
+    "position": "tec",
+    "nickname": "Cauan de Almeida",
+    "teamName": "Internacional",
+    "points": 0.04
+  },
+  {
+    "name": "Clayton Fernandes Silva",
+    "position": "ata",
+    "nickname": "Clayton",
+    "teamName": "Coritiba",
+    "points": 0.04
+  },
+  {
+    "name": "David Luiz Moreira Marinho",
+    "position": "zag",
+    "nickname": "David Luiz",
+    "teamName": "Flamengo",
+    "points": 0.04
+  },
+  {
+    "name": "Diego Ribas da Cunha",
+    "position": "mei",
+    "nickname": "Diego",
+    "teamName": "Flamengo",
+    "points": 0.04
+  },
+  {
+    "name": "Diego Roberto Godín Leal",
+    "position": "zag",
+    "nickname": "Godín",
+    "teamName": "Atlético-MG",
+    "points": 0.04
+  },
+  {
+    "name": "Eric dos Santos Rodrigues",
+    "position": "mei",
+    "nickname": "Eric Ramires",
+    "teamName": "Bragantino",
+    "points": 0.04
+  },
+  {
+    "name": "Erick de Arruda Serafim",
+    "position": "ata",
+    "nickname": "Erick",
+    "teamName": "Ceará",
+    "points": 0.04
+  },
+  {
+    "name": "Giuliano Victor de Paula",
+    "position": "mei",
+    "nickname": "Giuliano",
+    "teamName": "Corinthians",
+    "points": 0.04
+  },
+  {
+    "name": "Henrique Adriano Buss",
+    "position": "zag",
+    "nickname": "Henrique",
+    "teamName": "Coritiba",
+    "points": 0.04
+  },
+  {
+    "name": "João Victor da Vitória Fernandes",
+    "position": "ata",
+    "nickname": "Capixaba",
+    "teamName": "Juventude",
+    "points": 0.04
+  },
+  {
+    "name": "Leonardo Javier Realpe Montaño",
+    "position": "zag",
+    "nickname": "Realpe",
+    "teamName": "Bragantino",
+    "points": 0.04
+  },
+  {
+    "name": "Lucas Braga Ribeiro",
+    "position": "ata",
+    "nickname": "Lucas Braga",
+    "teamName": "Santos",
+    "points": 0.04
+  },
+  {
+    "name": "Lucas Fernandes da Silva",
+    "position": "mei",
+    "nickname": "Lucas Fernandes",
+    "teamName": "Botafogo",
+    "points": 0.04
+  },
+  {
+    "name": "Lucas Halter",
+    "position": "zag",
+    "nickname": "Lucas Halter",
+    "teamName": "Athlético-PR",
+    "points": 0.04
+  },
+  {
+    "name": "Luiz Antonio Ferreira Rodrigues",
+    "position": "mei",
+    "nickname": "Felipe",
+    "teamName": "Fortaleza",
+    "points": 0.04
+  },
+  {
+    "name": "Marcelo Cirino da Silva",
+    "position": "ata",
+    "nickname": "Marcelo Cirino",
+    "teamName": "Athlético-PR",
+    "points": 0.04
+  },
+  {
+    "name": "Mario Alberto Pineida Martínez",
+    "position": "lat",
+    "nickname": "Pineida",
+    "teamName": "Fluminense",
+    "points": 0.04
+  },
+  {
+    "name": "Max Walef Araújo da Silva",
+    "position": "gol",
+    "nickname": "Max Walef",
+    "teamName": "Fortaleza",
+    "points": 0.04
+  },
+  {
+    "name": "Nathan Allan de Souza",
+    "position": "mei",
+    "nickname": "Nathan",
+    "teamName": "Fluminense",
+    "points": 0.04
+  },
+  {
+    "name": "Pablo Nascimento Castro",
+    "position": "zag",
+    "nickname": "Pablo",
+    "teamName": "Flamengo",
+    "points": 0.04
+  },
+  {
+    "name": "Paulo Marcos de Jesus Ribeiro",
+    "position": "zag",
+    "nickname": "Paulão",
+    "teamName": "Cuiabá",
+    "points": 0.04
+  },
+  {
+    "name": "Pedro Guilherme Abreu dos Santos",
+    "position": "ata",
+    "nickname": "Pedro",
+    "teamName": "Flamengo",
+    "points": 0.04
+  },
+  {
+    "name": "Rodrigo Fernández Cedrés",
+    "position": "mei",
+    "nickname": "Rodrigo Fernández",
+    "teamName": "Santos",
+    "points": 0.04
+  },
+  {
+    "name": "Romildo Del Piage de Souza",
+    "position": "mei",
+    "nickname": "Romildo",
+    "teamName": "Botafogo",
+    "points": 0.04
+  },
+  {
+    "name": "Rômulo José Cardoso da Cruz",
+    "position": "ata",
+    "nickname": "Rômulo",
+    "teamName": "Athlético-PR",
+    "points": 0.04
+  },
+  {
+    "name": "Shaylon Kallyson Cardoso",
+    "position": "mei",
+    "nickname": "Shaylon",
+    "teamName": "Atlético-GO",
+    "points": 0.04
+  },
+  {
+    "name": "Tomás Esteban Cuello",
+    "position": "ata",
+    "nickname": "Cuello",
+    "teamName": "Athlético-PR",
+    "points": 0.04
+  },
+  {
+    "name": "Victor Luis Chuab Zamblauskas",
+    "position": "lat",
+    "nickname": "Victor Luis",
+    "teamName": "Ceará",
+    "points": 0.04
+  },
+  {
+    "name": "Vinícius Lopes da Silva",
+    "position": "ata",
+    "nickname": "Vinícius Lopes",
+    "teamName": "Botafogo",
+    "points": 0.04
+  },
+  {
+    "name": "Vitor Mendes Alves",
+    "position": "zag",
+    "nickname": "Vitor Mendes",
+    "teamName": "Atlético-MG",
+    "points": 0.04
+  },
+  {
+    "name": "Wescley Gomes dos Santos",
+    "position": "mei",
+    "nickname": "Wescley",
+    "teamName": "Ceará",
+    "points": 0.04
+  },
+  {
+    "name": "Wesley Moraes Ferreira da Silva",
+    "position": "ata",
+    "nickname": "Wesley Moraes",
+    "teamName": "Internacional",
+    "points": 0.04
+  },
+  {
+    "name": "Willian Borges da Silva",
+    "position": "mei",
+    "nickname": "Willian",
+    "teamName": "Corinthians",
+    "points": 0.04
+  },
+  {
+    "name": "Yuri Oliveira Lima",
+    "position": "mei",
+    "nickname": "Yuri Lima",
+    "teamName": "Juventude",
+    "points": 0.04
+  },
+  {
+    "name": "Artur Victor Guimarães",
+    "position": "ata",
+    "nickname": "Artur",
+    "teamName": "Bragantino",
+    "points": 0.03
+  },
+  {
+    "name": "Ayrton Lucas Dantas de Medeiros",
+    "position": "lat",
+    "nickname": "Ayrton Lucas",
+    "teamName": "Flamengo",
+    "points": 0.03
+  },
+  {
+    "name": "Bruno Roberto Pereira da Silva",
+    "position": "mei",
+    "nickname": "Bruninho",
+    "teamName": "Juventude",
+    "points": 0.03
+  },
+  {
+    "name": "Bruno de Jesus Pacheco",
+    "position": "lat",
+    "nickname": "Bruno Pacheco",
+    "teamName": "Ceará",
+    "points": 0.03
+  },
+  {
+    "name": "Bryan Jahir García Realpe",
+    "position": "mei",
+    "nickname": "Bryan García",
+    "teamName": "Athlético-PR",
+    "points": 0.03
+  },
+  {
+    "name": "Danilo Carvalho Barcelos",
+    "position": "lat",
+    "nickname": "Danilo Barcelos",
+    "teamName": "Goiás",
+    "points": 0.03
+  },
+  {
+    "name": "Guilherme da Trindade Dubas",
+    "position": "lat",
+    "nickname": "Guilherme Biro",
+    "teamName": "Coritiba",
+    "points": 0.03
+  },
+  {
+    "name": "Hugo de Souza Nogueira",
+    "position": "gol",
+    "nickname": "Hugo Souza",
+    "teamName": "Flamengo",
+    "points": 0.03
+  },
+  {
+    "name": "Jean Carlos de Souza Irmer",
+    "position": "mei",
+    "nickname": "Jean",
+    "teamName": "Juventude",
+    "points": 0.03
+  },
+  {
+    "name": "Jonathan Copete Valencia",
+    "position": "ata",
+    "nickname": "Copete",
+    "teamName": "Avaí",
+    "points": 0.03
+  },
+  {
+    "name": "Jonathan Doin",
+    "position": "zag",
+    "nickname": "Paulo Miranda",
+    "teamName": "Juventude",
+    "points": 0.03
+  },
+  {
+    "name": "José Romário Silva de Souza",
+    "position": "ata",
+    "nickname": "Romarinho",
+    "teamName": "Fortaleza",
+    "points": 0.03
+  },
+  {
+    "name": "João Victor Andrade Caetano",
+    "position": "zag",
+    "nickname": "Caetano",
+    "teamName": "Goiás",
+    "points": 0.03
+  },
+  {
+    "name": "João Vitor Vallony da Silva",
+    "position": "zag",
+    "nickname": "Da Silva",
+    "teamName": "Goiás",
+    "points": 0.03
+  },
+  {
+    "name": "Paulo Roberto Moccelin",
+    "position": "ata",
+    "nickname": "Paulinho Moccelin",
+    "teamName": "Juventude",
+    "points": 0.03
+  },
+  {
+    "name": "Ramon Menezes Roma",
+    "position": "zag",
+    "nickname": "Ramon Menezes",
+    "teamName": "Atlético-GO",
+    "points": 0.03
+  },
+  {
+    "name": "Róbson Michael Signorini",
+    "position": "mei",
+    "nickname": "Robinho",
+    "teamName": "Coritiba",
+    "points": 0.03
+  },
+  {
+    "name": "Vinícius Goes Barbosa de Souza",
+    "position": "mei",
+    "nickname": "Vina",
+    "teamName": "Ceará",
+    "points": 0.03
+  },
+  {
+    "name": "Vitor Frezarin Bueno",
+    "position": "mei",
+    "nickname": "Vitor Bueno",
+    "teamName": "Athlético-PR",
+    "points": 0.03
+  },
+  {
+    "name": "Vitor Hugo Roque Ferreira",
+    "position": "ata",
+    "nickname": "Vitor Roque",
+    "teamName": "Athlético-PR",
+    "points": 0.03
+  },
+  {
+    "name": "Wellington Aparecido Martins",
+    "position": "mei",
+    "nickname": "Wellington",
+    "teamName": "Fluminense",
+    "points": 0.03
+  },
+  {
+    "name": "Wesley Ribeiro Silva",
+    "position": "ata",
+    "nickname": "Wesley",
+    "teamName": "Palmeiras",
+    "points": 0.03
+  },
+  {
+    "name": "Alan Patrick Lourenço",
+    "position": "mei",
+    "nickname": "Alan Patrick",
+    "teamName": "Internacional",
+    "points": 0.02
+  },
+  {
+    "name": "Aluísio Chaves Ribeiro Moraes Júnior",
+    "position": "ata",
+    "nickname": "Júnior Moraes",
+    "teamName": "Corinthians",
+    "points": 0.02
+  },
+  {
+    "name": "Anthony Rigoberto Landázuri Estacio",
+    "position": "lat",
+    "nickname": "Landázuri",
+    "teamName": "Fortaleza",
+    "points": 0.02
+  },
+  {
+    "name": "Bernardo Marcos Pinheiro Lemes",
+    "position": "mei",
+    "nickname": "Bernardo",
+    "teamName": "Coritiba",
+    "points": 0.02
+  },
+  {
+    "name": "Brayan Andrés Ceballos Jiménez",
+    "position": "zag",
+    "nickname": "Ceballos",
+    "teamName": "Fortaleza",
+    "points": 0.02
+  },
+  {
+    "name": "Caio Vidal Rocha",
+    "position": "ata",
+    "nickname": "Caio Vidal",
+    "teamName": "Internacional",
+    "points": 0.02
+  },
+  {
+    "name": "Caio Vinicius da Conceição",
+    "position": "mei",
+    "nickname": "Caio",
+    "teamName": "Goiás",
+    "points": 0.02
+  },
+  {
+    "name": "Christian Roberto Alves Cardoso",
+    "position": "mei",
+    "nickname": "Christian",
+    "teamName": "Athlético-PR",
+    "points": 0.02
+  },
+  {
+    "name": "Danilo dos Santos de Oliveira",
+    "position": "mei",
+    "nickname": "Danilo",
+    "teamName": "Palmeiras",
+    "points": 0.02
+  },
+  {
+    "name": "Edson Fernando da Silva Gomes",
+    "position": "mei",
+    "nickname": "Edson Fernando",
+    "teamName": "Atlético-GO",
+    "points": 0.02
+  },
+  {
+    "name": "Fellipe Ramos Ignez Bastos",
+    "position": "mei",
+    "nickname": "Fellipe Bastos",
+    "teamName": "Goiás",
+    "points": 0.02
+  },
+  {
+    "name": "Fernando Diniz Silva",
+    "position": "tec",
+    "nickname": "Fernando Diniz",
+    "teamName": "Fluminense",
+    "points": 0.02
+  },
+  {
+    "name": "Giovane Santana do Nascimento",
+    "position": "ata",
+    "nickname": "Giovane",
+    "teamName": "Corinthians",
+    "points": 0.02
+  },
+  {
+    "name": "Guillermo Gabriel de los Santos Viana - Daniel",
+    "position": "zag",
+    "nickname": "Guillermo Santos",
+    "teamName": "Coritiba",
+    "points": 0.02
+  },
+  {
+    "name": "Henrique Almeida Caixeta Nascentes",
+    "position": "ata",
+    "nickname": "Henrique Almeida",
+    "teamName": "América-MG",
+    "points": 0.02
+  },
+  {
+    "name": "Hélio Júnio Nunes de Castro",
+    "position": "ata",
+    "nickname": "Helinho",
+    "teamName": "Bragantino",
+    "points": 0.02
+  },
+  {
+    "name": "José Ricardo Barbosa Ribeiro Drumond",
+    "position": "mei",
+    "nickname": "Zé Ricardo",
+    "teamName": "América-MG",
+    "points": 0.02
+  },
+  {
+    "name": "Luan Polli Gomes",
+    "position": "gol",
+    "nickname": "Luan Polli",
+    "teamName": "Atlético-GO",
+    "points": 0.02
+  },
+  {
+    "name": "Lucas Batista Félix",
+    "position": "ata",
+    "nickname": "Dentinho",
+    "teamName": "Avaí",
+    "points": 0.02
+  },
+  {
+    "name": "Lucas Henrique Barbosa",
+    "position": "mei",
+    "nickname": "Lucas Barbosa",
+    "teamName": "Santos",
+    "points": 0.02
+  },
+  {
+    "name": "Lucas Rafael Araújo Lima",
+    "position": "mei",
+    "nickname": "Lucas Lima",
+    "teamName": "Fortaleza",
+    "points": 0.02
+  },
+  {
+    "name": "Luiz Filipe dos Reis Silva",
+    "position": "ata",
+    "nickname": "Luiz Filipe",
+    "teamName": "Goiás",
+    "points": 0.02
+  },
+  {
+    "name": "Marcos Guilherme de Almeida Santos Matos",
+    "position": "ata",
+    "nickname": "Marcos Guilherme",
+    "teamName": "Santos",
+    "points": 0.02
+  },
+  {
+    "name": "Marcus Vinícius Oliveira Alencar",
+    "position": "ata",
+    "nickname": "Marquinhos",
+    "teamName": "São Paulo",
+    "points": 0.02
+  },
+  {
+    "name": "Michel Macedo Rocha Machado",
+    "position": "lat",
+    "nickname": "Michel",
+    "teamName": "Ceará",
+    "points": 0.02
+  },
+  {
+    "name": "Ramon Ramos Lima",
+    "position": "lat",
+    "nickname": "Ramon",
+    "teamName": "Bragantino",
+    "points": 0.02
+  },
+  {
+    "name": "Renato Barbosa dos Santos Junior",
+    "position": "ata",
+    "nickname": "Renato Junior",
+    "teamName": "Goiás",
+    "points": 0.02
+  },
+  {
+    "name": "Ricardo Bueno da Silva",
+    "position": "ata",
+    "nickname": "Ricardo Bueno",
+    "teamName": "Juventude",
+    "points": 0.02
+  },
+  {
+    "name": "Régis Augusto Salmazzo",
+    "position": "mei",
+    "nickname": "Régis",
+    "teamName": "Coritiba",
+    "points": 0.02
+  },
+  {
+    "name": "Rômulo dos Santos de Souza",
+    "position": "ata",
+    "nickname": "Rômulo ",
+    "teamName": "Avaí",
+    "points": 0.02
+  },
+  {
+    "name": "Silvio Ezequiel Romero",
+    "position": "ata",
+    "nickname": "Silvio Romero",
+    "teamName": "Fortaleza",
+    "points": 0.02
+  },
+  {
+    "name": "Vitor Gabriel Claudino Rego Ferreira",
+    "position": "ata",
+    "nickname": "Vitor Gabriel",
+    "teamName": "Juventude",
+    "points": 0.02
+  },
+  {
+    "name": "Andre Luis da Costa Alfredo",
+    "position": "ata",
+    "nickname": "André Luís",
+    "teamName": "Cuiabá",
+    "points": 0.01
+  },
+  {
+    "name": "Bruno Ferreira Bonfim",
+    "position": "ata",
+    "nickname": "Dentinho",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "Carlos Alberto Gomes da Silva Filho",
+    "position": "ata",
+    "nickname": "Carlos Alberto",
+    "teamName": "América-MG",
+    "points": 0.01
+  },
+  {
+    "name": "Danilo das Neves Pinheiro",
+    "position": "mei",
+    "nickname": "Tchê Tchê",
+    "teamName": "Atlético-MG",
+    "points": 0.01
+  },
+  {
+    "name": "Darlan Pereira Mendes",
+    "position": "mei",
+    "nickname": "Darlan",
+    "teamName": "Juventude",
+    "points": 0.01
+  },
+  {
+    "name": "David Correa da Fonseca",
+    "position": "ata",
+    "nickname": "David",
+    "teamName": "Internacional",
+    "points": 0.01
+  },
+  {
+    "name": "Diego Henrique Costa Barbosa",
+    "position": "zag",
+    "nickname": "Diego",
+    "teamName": "São Paulo",
+    "points": 0.01
+  },
+  {
+    "name": "Diego Terra Loureiro",
+    "position": "gol",
+    "nickname": "Diego Loureiro",
+    "teamName": "Botafogo",
+    "points": 0.01
+  },
+  {
+    "name": "Erick Luis Conrado de Carvalho",
+    "position": "mei",
+    "nickname": "Erick",
+    "teamName": "Athlético-PR",
+    "points": 0.01
+  },
+  {
+    "name": "Felipe Jonatan Rocha Andrade",
+    "position": "lat",
+    "nickname": "Felipe Jonatan",
+    "teamName": "Santos",
+    "points": 0.01
+  },
+  {
+    "name": "Fábio Roberto Gomes Netto",
+    "position": "ata",
+    "nickname": "Fábio Gomes",
+    "teamName": "Atlético-MG",
+    "points": 0.01
+  },
+  {
+    "name": "Guilherme de Aguiar Camacho",
+    "position": "mei",
+    "nickname": "Camacho",
+    "teamName": "Santos",
+    "points": 0.01
+  },
+  {
+    "name": "Gustavo Bonatto Barreto",
+    "position": "mei",
+    "nickname": "Barreto",
+    "teamName": "Botafogo",
+    "points": 0.01
+  },
+  {
+    "name": "Gustavo Lucas Domingues Piazón",
+    "position": "mei",
+    "nickname": "Lucas Piazon",
+    "teamName": "Botafogo",
+    "points": 0.01
+  },
+  {
+    "name": "Iury Lirio Freitas de Castilho",
+    "position": "ata",
+    "nickname": "Iury Castilho",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "Jean Cléber Santos da Silva",
+    "position": "mei",
+    "nickname": "Jean Cléber",
+    "teamName": "Avaí",
+    "points": 0.01
+  },
+  {
+    "name": "Jenison de Jesus Brito e Brito",
+    "position": "ata",
+    "nickname": "Jenison",
+    "teamName": "Cuiabá",
+    "points": 0.01
+  },
+  {
+    "name": "Jonathan Renato Barbosa",
+    "position": "ata",
+    "nickname": "Jonathan Cafu",
+    "teamName": "Cuiabá",
+    "points": 0.01
+  },
+  {
+    "name": "Jorge Marco de Oliveira Moraes",
+    "position": "lat",
+    "nickname": "Jorge",
+    "teamName": "Palmeiras",
+    "points": 0.01
+  },
+  {
+    "name": "José Roberto Assunção de Araújo Filho",
+    "position": "ata",
+    "nickname": "Zé Roberto",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "João Lucas Souza Cardoso",
+    "position": "mei",
+    "nickname": "Johnny",
+    "teamName": "Internacional",
+    "points": 0.01
+  },
+  {
+    "name": "João Victor Vieira Ferreira Sousa",
+    "position": "ata",
+    "nickname": "João Victor",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "Lucas Kal Schenfeld Progioli",
+    "position": "mei",
+    "nickname": "Lucas Kal",
+    "teamName": "América-MG",
+    "points": 0.01
+  },
+  {
+    "name": "Lucas Ribeiro dos Santos",
+    "position": "zag",
+    "nickname": "Lucas Ribeiro",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "Luccas Claro dos Santos",
+    "position": "zag",
+    "nickname": "Luccas Claro",
+    "teamName": "Fluminense",
+    "points": 0.01
+  },
+  {
+    "name": "Luiz Flávio Silvério Silva",
+    "position": "mei",
+    "nickname": "Flávio",
+    "teamName": "América-MG",
+    "points": 0.01
+  },
+  {
+    "name": "Luiz Otávio Anacleto Leandro",
+    "position": "zag",
+    "nickname": "Luiz Otávio",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "Marlos Romero Bonfim",
+    "position": "mei",
+    "nickname": "Marlos",
+    "teamName": "Athlético-PR",
+    "points": 0.01
+  },
+  {
+    "name": "Matheus Antunes Ribeiro",
+    "position": "lat",
+    "nickname": "Matheus Ribeiro",
+    "teamName": "Avaí",
+    "points": 0.01
+  },
+  {
+    "name": "Matheus Planelles Donelli",
+    "position": "gol",
+    "nickname": "Matheus Donelli",
+    "teamName": "Corinthians",
+    "points": 0.01
+  },
+  {
+    "name": "Maycon Vinícius Ferreira da Cruz",
+    "position": "mei",
+    "nickname": "Nikão",
+    "teamName": "São Paulo",
+    "points": 0.01
+  },
+  {
+    "name": "Messias Rodrigues da Silva Júnior",
+    "position": "zag",
+    "nickname": "Messias",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "Nicolas Godinho Johann",
+    "position": "ata",
+    "nickname": "Nicolas",
+    "teamName": "Goiás",
+    "points": 0.01
+  },
+  {
+    "name": "Pablo Fabricio Siles Morales",
+    "position": "mei",
+    "nickname": "Pablo Siles",
+    "teamName": "Athlético-PR",
+    "points": 0.01
+  },
+  {
+    "name": "Philipe Sampaio Azevedo",
+    "position": "zag",
+    "nickname": "Philipe Sampaio",
+    "teamName": "Botafogo",
+    "points": 0.01
+  },
+  {
+    "name": "Renato Kayzer de Souza",
+    "position": "ata",
+    "nickname": "Renato Kayzer",
+    "teamName": "Fortaleza",
+    "points": 0.01
+  },
+  {
+    "name": "Ricardo Goulart Pereira",
+    "position": "mei",
+    "nickname": "Ricardo Goulart",
+    "teamName": "Santos",
+    "points": 0.01
+  },
+  {
+    "name": "Richardson Fernandes dos Santos",
+    "position": "mei",
+    "nickname": "Richardson",
+    "teamName": "Ceará",
+    "points": 0.01
+  },
+  {
+    "name": "Rodrigo Alves Soares",
+    "position": "lat",
+    "nickname": "Rodrigo Soares",
+    "teamName": "Juventude",
+    "points": 0.01
+  },
+  {
+    "name": "Sávio Moreira de Oliveira",
+    "position": "ata",
+    "nickname": "Sávio",
+    "teamName": "Atlético-MG",
+    "points": 0.01
+  },
+  {
+    "name": "Wanderson Maciel Sousa Campos",
+    "position": "ata",
+    "nickname": "Wanderson",
+    "teamName": "Internacional",
+    "points": 0.01
+  },
+  {
+    "name": "Wellington Pereira do Nascimento",
+    "position": "ata",
+    "nickname": "Wellington Paulista",
+    "teamName": "América-MG",
+    "points": 0.01
+  },
+  {
+    "name": "Weverson Moreira da Costa",
+    "position": "lat",
+    "nickname": "Weverson",
+    "teamName": "Bragantino",
+    "points": 0.01
+  },
+  {
+    "name": "William de Oliveira Pottker",
+    "position": "ata",
+    "nickname": "William Pottker",
+    "teamName": "Avaí",
+    "points": 0.01
+  },
+  {
+    "name": "Willian Marlon Ferreira Moraes",
+    "position": "mei",
+    "nickname": "Willian Maranhão",
+    "teamName": "Santos",
+    "points": 0.01
+  },
+  {
+    "name": "Aderbar Melo dos Santos Neto",
+    "position": "gol",
+    "nickname": "Santos",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Adyson do Nascimento Soares",
+    "position": "ata",
+    "nickname": "Adyson",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Airton Moraes Michellon",
+    "position": "gol",
+    "nickname": "Airton",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Albano Sehn Neto",
+    "position": "mei",
+    "nickname": "Albano",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Alberto Valentim do Carmo Neto",
+    "position": "tec",
+    "nickname": "Alberto Valentim",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Alexander Jesús Medina Reobasco",
+    "position": "tec",
+    "nickname": "Alexander Medina",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Alexandre de Jesus Jeruzalem Júnior",
+    "position": "ata",
+    "nickname": "Alexandre Jesus",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Allan Victor Oliveira Mota",
+    "position": "ata",
+    "nickname": "Allanzinho",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Anderson Silva da Paixão",
+    "position": "gol",
+    "nickname": "Anderson",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Anderson Vital da Silva",
+    "position": "zag",
+    "nickname": "Dedé",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "André Felipe Ribeiro de Souza",
+    "position": "ata",
+    "nickname": "André",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "André Luiz Ribeiro da Silva",
+    "position": "gol",
+    "nickname": "André",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Anthoni Spier Souza",
+    "position": "gol",
+    "nickname": "Anthoni",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Antônio Fialho de Carvalho Neto",
+    "position": "mei",
+    "nickname": "Neto",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Arthur Augusto de Matos Soares",
+    "position": "lat",
+    "nickname": "Arthur",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Arthur Neves Scheles",
+    "position": "mei",
+    "nickname": "Macaé",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Arthur de Bem Ribas",
+    "position": "gol",
+    "nickname": "Arthur",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Auro Álvaro da Cruz Júnior",
+    "position": "lat",
+    "nickname": "Auro",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Breno Boeno",
+    "position": "gol",
+    "nickname": "Breno",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Breno Henrique Vasconcelos Lopes",
+    "position": "ata",
+    "nickname": "Breno Lopes",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Breno Washington Rodrigues da Silva",
+    "position": "mei",
+    "nickname": "Breno",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Breno de Souza Bidon",
+    "position": "mei",
+    "nickname": "Breno Bidon",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Brian Guillermo Montenegro Martínez",
+    "position": "ata",
+    "nickname": "Montenegro",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Bruno Felipe Oliveira",
+    "position": "mei",
+    "nickname": "Bruno Oliveira",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Bruno Gomes da Silva Clevelário",
+    "position": "mei",
+    "nickname": "Bruno Gomes",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Bruno Gonçalves de Jesus",
+    "position": "ata",
+    "nickname": "Bruninho",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Bruno da Silva Costa Leite",
+    "position": "mei",
+    "nickname": "Bruno Leite",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Caio César Amorim Hila",
+    "position": "lat",
+    "nickname": "Caio Hila",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Caio Matheus da Silva",
+    "position": "ata",
+    "nickname": "Caio",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Calebe Gonçalves Ferreira da Silva",
+    "position": "mei",
+    "nickname": "Calebe",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Camilo Reijers de Oliveira",
+    "position": "mei",
+    "nickname": "Camilo",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Alonso Enrique Palacios Núñez",
+    "position": "ata",
+    "nickname": "Palacios",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Andrés Sánchez Arcosa",
+    "position": "mei",
+    "nickname": "Carlos Sánchez",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Ayrton Cougo Rivero",
+    "position": "lat",
+    "nickname": "Cougo",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Daniel de Medeiros Silva",
+    "position": "lat",
+    "nickname": "Carlos Daniel",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Eduardo Santos Oliveira",
+    "position": "lat",
+    "nickname": "Eduardo",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Emiliano Pereira",
+    "position": "lat",
+    "nickname": "Carlinhos",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Junio Rodrigues do Carmo",
+    "position": "lat",
+    "nickname": "Carlos Junio",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Carlos Miguel dos Santos Pereira",
+    "position": "gol",
+    "nickname": "Carlos Miguel",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Christian Chagas Tarouco",
+    "position": "zag",
+    "nickname": "Titi",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Cleiton Santana dos Santos",
+    "position": "zag",
+    "nickname": "Cleiton",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Cláudio Vitor Morais de Lima Cruz",
+    "position": "gol",
+    "nickname": "Cláudio Vitor",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "César Rafael Haydar Villarreal",
+    "position": "zag",
+    "nickname": "Haydar",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Daniel Cabral de Oliveira",
+    "position": "mei",
+    "nickname": "Daniel Cabral",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Daniel Lima de Castro",
+    "position": "lat",
+    "nickname": "Daniel",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Daniel de Pauli Oliveira",
+    "position": "mei",
+    "nickname": "Daniel de Pauli",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Daniel dos Santos da Cruz",
+    "position": "ata",
+    "nickname": "Daniel Cruz",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Danilo Boza Júnior",
+    "position": "zag",
+    "nickname": "Danilo Boza",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Danilo Fernando Avelar",
+    "position": "zag",
+    "nickname": "Danilo Avelar",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Davi Machado dos Santos Araújo",
+    "position": "ata",
+    "nickname": "Davi Araújo",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "David Ricardo Loiola da Silva",
+    "position": "zag",
+    "nickname": "David Loiola",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Deyverson Brum Silva Acosta",
+    "position": "ata",
+    "nickname": "Deyverson",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Diego Alves Carreira",
+    "position": "gol",
+    "nickname": "Diego Alves",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Diego Daniel Rodrigues de Matos",
+    "position": "lat",
+    "nickname": "Diego Matos",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Diego Porfirio da Silva",
+    "position": "lat",
+    "nickname": "Diego",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Diógenes Vinícius da Silva",
+    "position": "gol",
+    "nickname": "Diógenes ",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Douglas Borges",
+    "position": "gol",
+    "nickname": "Douglas Borges",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Douglas da Silva Santos",
+    "position": "lat",
+    "nickname": "Douglas Silva",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Dylan Felipe Borrero Caicedo",
+    "position": "mei",
+    "nickname": "Borrero",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Ebert William Amâncio",
+    "position": "zag",
+    "nickname": "Betão",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Edson Guilherme Mendes dos Santos",
+    "position": "mei",
+    "nickname": "Edson Carioca",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Eduard Andrés Atuesta Velasco",
+    "position": "mei",
+    "nickname": "Atuesta ",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Eduardo Figueiredo da Cruz",
+    "position": "ata",
+    "nickname": "Índio",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Eduardo Fraga Capellari",
+    "position": "gol",
+    "nickname": "Capellari",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Elton Júnior Melo Ataíde",
+    "position": "mei",
+    "nickname": "Elton",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Emerson Fabiano Kerber Júnior",
+    "position": "gol",
+    "nickname": "Emerson Júnior",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Emiliano Martínez Toranza",
+    "position": "mei",
+    "nickname": "Emiliano Martínez",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Everson Bispo Pereira",
+    "position": "zag",
+    "nickname": "Everson",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Ewerton Vinicios Santana Porto",
+    "position": "zag",
+    "nickname": "Ewerton",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Fabrício Bruno Soares de Faria",
+    "position": "zag",
+    "nickname": "Fabrício Bruno",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Fagner Conserva Lemos",
+    "position": "lat",
+    "nickname": "Fagner",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Fagner Ironi Daponte",
+    "position": "zag",
+    "nickname": "Fagner Alemão",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Felipe Alves Raymundo",
+    "position": "gol",
+    "nickname": "Felipe Alves",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Felipe Augusto da Silva",
+    "position": "ata",
+    "nickname": "Felipe Augusto",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Felipe Camargo de Souza",
+    "position": "zag",
+    "nickname": "Felipe Camargo",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Felipe Felício Silva Reis",
+    "position": "ata",
+    "nickname": "Felipe Felício",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Felipe Florencio da Silva",
+    "position": "zag",
+    "nickname": "Lipe",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Felipe Melo de Carvalho",
+    "position": "zag",
+    "nickname": "Felipe Melo",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Felipe de Figueiredo Ferreira",
+    "position": "mei",
+    "nickname": "Felipe Ferreira",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Fernando Miguel Kaufmann",
+    "position": "gol",
+    "nickname": "Fernando Miguel",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Fernando Pereira do Nascimento",
+    "position": "mei",
+    "nickname": "Fernando Sobral",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Francisco Edson Moreira da Silva",
+    "position": "ata",
+    "nickname": "Edinho",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Fábio Gonçalves",
+    "position": "mei",
+    "nickname": "Fabinho",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Fábio Santos Romeu",
+    "position": "lat",
+    "nickname": "Fábio Santos",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Fábio Silva de Freitas",
+    "position": "mei",
+    "nickname": "Fabinho",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Cordeiro Pirani",
+    "position": "mei",
+    "nickname": "Gabriel Pirani",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Delfim Ferreira",
+    "position": "gol",
+    "nickname": "Gabriel Delfim",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Ferreira Neris",
+    "position": "mei",
+    "nickname": "Gabriel Tota",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Kazu Rossato Yanagu",
+    "position": "mei",
+    "nickname": "Kazu",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Neves Perdomo",
+    "position": "mei",
+    "nickname": "Gabriel",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Novaes Fernandes",
+    "position": "ata",
+    "nickname": "Gabriel Novaes",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Roberto Pereira",
+    "position": "gol",
+    "nickname": "Gabriel Pereira",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Rodrigues Noga",
+    "position": "zag",
+    "nickname": "Gabriel Noga",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Ruggeri Silva",
+    "position": "lat",
+    "nickname": "Gabriel Ruggeri",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Santos Silva",
+    "position": "ata",
+    "nickname": "Gabriel Silva",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Silva Vieira",
+    "position": "ata",
+    "nickname": "Gabriel Silva",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel Vinícius Menino",
+    "position": "mei",
+    "nickname": "Gabriel Menino",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Gabriel da Conceição dos Santos",
+    "position": "ata",
+    "nickname": "Gabriel Conceição",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Gabryel da Silva Martins",
+    "position": "ata",
+    "nickname": "Gabryel Martins",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Geovane da Silva de Souza",
+    "position": "mei",
+    "nickname": "Geovane",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Giovani Henrique Amorim da Silva",
+    "position": "ata",
+    "nickname": "Giovani",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Glauber Ramos da Silva",
+    "position": "tec",
+    "nickname": "Glauber Ramos",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Glédson Ribeiro dos Santos",
+    "position": "gol",
+    "nickname": "Glédson",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Gonzalo Schnorr Fornari",
+    "position": "ata",
+    "nickname": "Gonzalo",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Guilherme Castilho Carvalho",
+    "position": "mei",
+    "nickname": "Guilherme Castilho",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Guilherme Lopes de Almeida",
+    "position": "lat",
+    "nickname": "Guilherme",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Guilherme Vicentini Castellani",
+    "position": "gol",
+    "nickname": "Guilherme",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo César Mendonça Gravino",
+    "position": "mei",
+    "nickname": "Gustavo",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo Garcia dos Santos",
+    "position": "lat",
+    "nickname": "Gustavo Garcia",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo Henrique Alves Silva",
+    "position": "ata",
+    "nickname": "Gustavo Nescau",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo Henrique Vernes",
+    "position": "zag",
+    "nickname": "Gustavo Henrique",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo Maia da Silva",
+    "position": "ata",
+    "nickname": "Gustavo Maia",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo Marques Alves dos Santos",
+    "position": "zag",
+    "nickname": "Gustavo Marques",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo Ramalho Bremer Pinto",
+    "position": "gol",
+    "nickname": "Gustavo Ramalho",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Gustavo Santos Simões da Silva",
+    "position": "ata",
+    "nickname": "Gustavo Santos",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Habraão Lincon do Nascimento Saraiva",
+    "position": "zag",
+    "nickname": "Habraão",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Harley D\u0027Lincon Ribeiro da Rocha",
+    "position": "mei",
+    "nickname": "Lincon",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Heitor Rodrigues da Fonseca",
+    "position": "lat",
+    "nickname": "Heitor",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Henrique Halls Rocha da Silva",
+    "position": "zag",
+    "nickname": "Henrique Halls",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Igo Gabriel Santos Pereira",
+    "position": "gol",
+    "nickname": "Igo",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Igor Aquino da Silva",
+    "position": "lat",
+    "nickname": "Igor Cariús",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Igor Matheus Liziero Pereira ",
+    "position": "mei",
+    "nickname": "Liziero",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Igor Rabello da Costa",
+    "position": "zag",
+    "nickname": "Igor Rabello",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Igor Torres da Silva",
+    "position": "ata",
+    "nickname": "Igor Torres",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Igor Vinícius de Souza",
+    "position": "lat",
+    "nickname": "Igor Vinícius",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Igor da Silva Dutra",
+    "position": "lat",
+    "nickname": "Igor",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Isaac Souza Valença",
+    "position": "mei",
+    "nickname": "Isaac",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Ivan Quaresma da Silva",
+    "position": "gol",
+    "nickname": "Ivan",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Ivonei Júnior da Silva Rabelo",
+    "position": "mei",
+    "nickname": "Ivonei",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Jader Barbosa da Silva Gentil",
+    "position": "mei",
+    "nickname": "Jader",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Jael Ferreira Vieira",
+    "position": "ata",
+    "nickname": "Jael",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Jair Diego Alves de Brito",
+    "position": "ata",
+    "nickname": "Jajá",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Jaílson Marques Siqueira",
+    "position": "mei",
+    "nickname": "Jailson",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Jean Carlos Albino Bonora",
+    "position": "ata",
+    "nickname": "Jean",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Jeferson Cavalcante Fernandes Filho",
+    "position": "lat",
+    "nickname": "Jefinho",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Jhalmar Sebastian Joffre Soliz",
+    "position": "ata",
+    "nickname": "Sebastian Joffre",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Jhon Adolfo Arias Andrade",
+    "position": "mei",
+    "nickname": "Arias",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Jhonatan dos Santos Rosa",
+    "position": "mei",
+    "nickname": "Jhonatan",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Jhonny Cardinoti Pedro",
+    "position": "lat",
+    "nickname": "Jhonny",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Joaquim Henrique Pereira Silva",
+    "position": "zag",
+    "nickname": "Joaquim",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Jobson Souza Santos",
+    "position": "mei",
+    "nickname": "Jobson",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "John Anthony Mercado Cuero",
+    "position": "ata",
+    "nickname": "John Mercado",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "John Kennedy Batista de Souza",
+    "position": "ata",
+    "nickname": "John Kennedy",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "John Victor Maciel Furtado",
+    "position": "gol",
+    "nickname": "John Victor",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Jonas Gabriel da Silva Nunes",
+    "position": "ata",
+    "nickname": "Toró",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Jonathan Silva Vieira",
+    "position": "lat",
+    "nickname": "Jonathan Silva",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Joriwinnyson Santos dos Anjos Rodrigues",
+    "position": "gol",
+    "nickname": "Jori",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "José Cássio Meneses da Costa ",
+    "position": "gol",
+    "nickname": "Cássio",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "José Hugo Sousa dos Santos",
+    "position": "ata",
+    "nickname": "Hugo",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "José Ivaldo Almeida Silva",
+    "position": "zag",
+    "nickname": "Zé Ivaldo",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "José Rodolfo Pires Ribeiro",
+    "position": "lat",
+    "nickname": "Dodô",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "José Vitor Lima Cardoso",
+    "position": "zag",
+    "nickname": "Zé Vitor",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "José Welison da Silva",
+    "position": "mei",
+    "nickname": "José Welison",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "João Alves de Assis Silva",
+    "position": "ata",
+    "nickname": "Jô",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "João Carlos Heidemann",
+    "position": "gol",
+    "nickname": "João Carlos",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "João Miranda de Souza Filho",
+    "position": "zag",
+    "nickname": "Miranda",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "João Moreira Sanmartin Souza",
+    "position": "lat",
+    "nickname": "João Moreira",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "João Pedro Maturano dos Santos",
+    "position": "lat",
+    "nickname": "João Pedro",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "João Pedro de Moura Siembarski",
+    "position": "mei",
+    "nickname": "João Pedro",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "João Victor Dall\u0027Stella Vialle",
+    "position": "zag",
+    "nickname": "João Vialle",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "João Victor Vaz Lopes Pinto",
+    "position": "ata",
+    "nickname": "Vitinho",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "João Vitor Xavier de Almeida",
+    "position": "mei",
+    "nickname": "Xavier",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "João Vitor de Oliveira",
+    "position": "gol",
+    "nickname": "João",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Juan Miguel Ojeda Gauto",
+    "position": "zag",
+    "nickname": "Juan Ojeda",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Juan Pablo Vilela Tavares",
+    "position": "lat",
+    "nickname": "Juan Pablo",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Juan Santos da Silva",
+    "position": "ata",
+    "nickname": "Juan",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Julimar Silva Oliveira Júnior",
+    "position": "ata",
+    "nickname": "Julimar",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Júlio César de Souza Santos",
+    "position": "gol",
+    "nickname": "Júlio César",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Kaiky Fernandes Melo",
+    "position": "zag",
+    "nickname": "Kaiky",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Kaiky Marques Naves",
+    "position": "mei",
+    "nickname": "Naves",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Kaique Pereira Azarias",
+    "position": "gol",
+    "nickname": "Kaique",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Kawan Gabriel da Silva",
+    "position": "mei",
+    "nickname": "Kawan",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Kawan Thomaz Reis de Moraes",
+    "position": "zag",
+    "nickname": "Kawan",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Kawê Ferreira Godoy Viana",
+    "position": "ata",
+    "nickname": "Kawê",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Kaíque Rocha Lima",
+    "position": "zag",
+    "nickname": "Kaíque Rocha",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Keiller da Silva Nunes",
+    "position": "gol",
+    "nickname": "Keiller",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Kelvi Chiesa Gomes",
+    "position": "mei",
+    "nickname": "Kelvi",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Kelvin David Osorio Antury",
+    "position": "mei",
+    "nickname": "Osorio",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Kevyn da Silva Soares",
+    "position": "mei",
+    "nickname": "Kevyn ",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Leandro Barcia Montero",
+    "position": "ata",
+    "nickname": "Leandro Barcia",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Leandro Henrique do Nascimento",
+    "position": "ata",
+    "nickname": "Leandrinho",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Leonardo Ataíde de Oliveira Siqueira",
+    "position": "lat",
+    "nickname": "Leonardo Ataíde",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Leonardo Estigarribia Ferreira",
+    "position": "zag",
+    "nickname": "Léo Dourado",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Leonardo Mana Hernandes",
+    "position": "lat",
+    "nickname": "Léo Maná",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Leonardo da Silva Passos",
+    "position": "ata",
+    "nickname": "Léo Passos",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Leonardo de Almeida Silva",
+    "position": "mei",
+    "nickname": "Léo Silva",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Luan Dias da Silva",
+    "position": "mei",
+    "nickname": "Luan Dias",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Luan Garcia Teixeira",
+    "position": "zag",
+    "nickname": "Luan",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Luan Guilherme de Jesus Vieira",
+    "position": "mei",
+    "nickname": "Luan",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Luan Patrick Wiedthauper",
+    "position": "zag",
+    "nickname": "Luan Patrick",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Luan Sales do Nascimento",
+    "position": "lat",
+    "nickname": "Luan Sales",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Luan Silva dos Santos",
+    "position": "ata",
+    "nickname": "Luan Silva",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Luan Vinícius da Silva Santos ",
+    "position": "mei",
+    "nickname": "Luan",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Luan de Freitas Molarinho Chagas",
+    "position": "zag",
+    "nickname": "Luan",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Lucas Alexandre Galdino de Azevedo",
+    "position": "gol",
+    "nickname": "Lucão",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Lucas Belezi Barbosa",
+    "position": "zag",
+    "nickname": "Belezi",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Lucas Eduardo Lima da Silva",
+    "position": "mei",
+    "nickname": "Lucas Lima",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Lucas Henrique Mazetti",
+    "position": "lat",
+    "nickname": "Mazetti",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Lucas de Ramos Silveira",
+    "position": "mei",
+    "nickname": "Lucas Ramos",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Lucas de Souza Mombra Rosa",
+    "position": "zag",
+    "nickname": "Mezenga",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Luciano Silva Santos",
+    "position": "mei",
+    "nickname": "Luciano",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Luis Felype Carvalho Ramos",
+    "position": "gol",
+    "nickname": "Luis Felype",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Luis Phelipe de Souza Figueiredo",
+    "position": "ata",
+    "nickname": "Luis Phelipe",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Luiz Felipe Scolari",
+    "position": "tec",
+    "nickname": "Luiz Felipe Scolari",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Luiz Felipe do Nascimento dos Santos",
+    "position": "zag",
+    "nickname": "Luiz Felipe",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Luiz Gabriel de Oliveira Fonseca",
+    "position": "mei",
+    "nickname": "Biel",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Luiz Guilherme Vieira da Silva",
+    "position": "ata",
+    "nickname": "Luizão",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Luiz Henrique Augustin ",
+    "position": "mei",
+    "nickname": "Luiz Henrique",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Luiz Henrique Rosa Roque da Paz",
+    "position": "mei",
+    "nickname": "Luiz Henrique",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Luís Eduardo Marques dos Santos",
+    "position": "lat",
+    "nickname": "Dudu",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Léo Matias Baiersdorf Linck",
+    "position": "gol",
+    "nickname": "Léo Linck",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Marcelo Boeck",
+    "position": "gol",
+    "nickname": "Marcelo Boeck",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Marcelo Francine de Castro Feliciano",
+    "position": "ata",
+    "nickname": "Marcelinho",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Marcelo Lomba do Nascimento",
+    "position": "gol",
+    "nickname": "Marcelo Lomba",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Marcelo Rangel da Rosa",
+    "position": "gol",
+    "nickname": "Marcelo Rangel",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Marcio Gleyson Leite da Silva",
+    "position": "zag",
+    "nickname": "Marcio Silva",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Marco Antônio Amorim de Oliveira Montes",
+    "position": "gol",
+    "nickname": "Marcão",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Marcos Felipe de Freitas Monteiro",
+    "position": "gol",
+    "nickname": "Marcos Felipe",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Marcos Victor Ferreira da Silva",
+    "position": "zag",
+    "nickname": "Marcos Victor",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Marcos Vinícius dos Santos Gonçalves",
+    "position": "tec",
+    "nickname": "Marquinhos Santos",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Marcos Ytalo Benício da Silva",
+    "position": "lat",
+    "nickname": "Buiú",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Marlon Matheus Lopes do Nascimento",
+    "position": "lat",
+    "nickname": "Marlon ",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Mateus Oliveira Mendes",
+    "position": "gol",
+    "nickname": "Mateus",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Alfredo Cadorini da Silva",
+    "position": "ata",
+    "nickname": "Matheus Cadorini",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Barcelos da Silva",
+    "position": "ata",
+    "nickname": "Matheus Babi",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Cunha Queiroz",
+    "position": "gol",
+    "nickname": "Matheus Cunha",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Fernando Cavichioli",
+    "position": "gol",
+    "nickname": "Matheus Cavichioli",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Ferraz Pereira",
+    "position": "zag",
+    "nickname": "Matheus Ferraz",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus França Silva",
+    "position": "lat",
+    "nickname": "Matheuzinho",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Galdezani",
+    "position": "mei",
+    "nickname": "Matheus Galdezani",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Lucas Jacintho Ferreira",
+    "position": "ata",
+    "nickname": "Matheus Lucas",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Martins Silva dos Santos",
+    "position": "ata",
+    "nickname": "Matheus Martins",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Mendes Werneck de Oliveira",
+    "position": "gol",
+    "nickname": "Matheus Mendes",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Santos Soares",
+    "position": "ata",
+    "nickname": "Matheusinho",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus Vieira Campos Peixoto",
+    "position": "ata",
+    "nickname": "Matheus Peixoto",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Matheus de Araújo Andrade",
+    "position": "mei",
+    "nickname": "Matheus Araújo",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Matías Galarza Fonda",
+    "position": "mei",
+    "nickname": "Galarza",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Mauro Joel Carli",
+    "position": "zag",
+    "nickname": "Joel Carli",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Mauro Matías Zárate",
+    "position": "ata",
+    "nickname": "Zárate",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Maycon Cleiton de Paula Azevedo",
+    "position": "gol",
+    "nickname": "Maycon",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Michel Augusto Modesto Rafael dos Santos",
+    "position": "zag",
+    "nickname": "Michel",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Miguel Ferreira Damasceno",
+    "position": "mei",
+    "nickname": "Miguel Figueira",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Moisés Roberto Barbosa",
+    "position": "lat",
+    "nickname": "Moisés",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Muriel Gustavo Becker",
+    "position": "gol",
+    "nickname": "Muriel",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Mycael Pontes Moreira",
+    "position": "gol",
+    "nickname": "Mycael",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Natanael Moreira Milouski",
+    "position": "lat",
+    "nickname": "Natanael",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Nathan Gabriel de Souza Mendes",
+    "position": "lat",
+    "nickname": "Nathan",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Nathan Melo Silva",
+    "position": "mei",
+    "nickname": "Nathan",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Neilton Meira Mestzk",
+    "position": "ata",
+    "nickname": "Neilton",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Nicholas Antero Hämäläinen - Niko",
+    "position": "lat",
+    "nickname": "Hämäläinen",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Nicolas Arno Luft",
+    "position": "lat",
+    "nickname": "Nicolas",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Nicolás Hernández Rodríguez",
+    "position": "zag",
+    "nickname": "Nicolás Hernández",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Onitlasi Júnior de Moraes Rodrigues",
+    "position": "lat",
+    "nickname": "Moraes",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Orlando Enrique Berrío Meléndez",
+    "position": "ata",
+    "nickname": "Berrío ",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Otávio Henrique Passos Santos",
+    "position": "mei",
+    "nickname": "Otávio",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Pablo Javier García Lafluf",
+    "position": "mei",
+    "nickname": "Pablo García",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Paulo Henrique Silva Ribeiro",
+    "position": "ata",
+    "nickname": "Paulo Baya",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Paulo Mazoti Azevedo",
+    "position": "gol",
+    "nickname": "Paulo Mazoti",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Paulo Roberto Valoura Júnior",
+    "position": "mei",
+    "nickname": "Juninho Valoura",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Paulo Victor de Almeida Barbosa",
+    "position": "lat",
+    "nickname": "Paulo Victor ",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Pedro Felipe De Faria Rangel",
+    "position": "gol",
+    "nickname": "Pedro Rangel",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Pedro Henrique Azevedo Pereira",
+    "position": "lat",
+    "nickname": "Pedrinho",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Pedro Henrique Rodrigues Bicalho",
+    "position": "mei",
+    "nickname": "Pedro Bicalho",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Pedro Igor de Souza Carneiro Martins",
+    "position": "ata",
+    "nickname": "Pedro Igor ",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Pedro Rocha Neves",
+    "position": "ata",
+    "nickname": "Pedro Rocha",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Rafael Gustavo Meneghel Gava",
+    "position": "mei",
+    "nickname": "Rafael Gava",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Rafael Pereira da Silva",
+    "position": "lat",
+    "nickname": "Rafael",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Rafael Pires Monteiro",
+    "position": "gol",
+    "nickname": "Rafael",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Rafael William Dias Pinheiro",
+    "position": "gol",
+    "nickname": "Rafael William",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Ramon Rodrigo de Carvalho",
+    "position": "mei",
+    "nickname": "Ramon Carvalho",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Raul Lô Gonçalves",
+    "position": "mei",
+    "nickname": "Raul",
+    "teamName": "Bragantino",
+    "points": 0.0
+  },
+  {
+    "name": "Reginaldo de Lima Nunes Júnior",
+    "position": "lat",
+    "nickname": "Reginaldo",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Reginaldo dos Santos Moreira",
+    "position": "ata",
+    "nickname": "Reginaldo",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Reinaldo Nascimento Satorno",
+    "position": "ata",
+    "nickname": "Reinaldo",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Renan dos Santos",
+    "position": "gol",
+    "nickname": "Renan",
+    "teamName": "Atlético-GO",
+    "points": 0.0
+  },
+  {
+    "name": "Reydson Renan de Almeida Ribeiro",
+    "position": "lat",
+    "nickname": "Reydson",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Richard de Oliveira da Costa",
+    "position": "gol",
+    "nickname": "Richard",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Rikelme Hernandes Amorim Rocha",
+    "position": "mei",
+    "nickname": "Rikelme",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Rikelmi Valentim dos Santos",
+    "position": "ata",
+    "nickname": "Rikelmi",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Robert Renan Alves Barbosa",
+    "position": "zag",
+    "nickname": "Robert Renan",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Robson Alves Reis",
+    "position": "zag",
+    "nickname": "Robson",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Robson Luiz dos Santos Nascimento",
+    "position": "gol",
+    "nickname": "Robson",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Robson Tosta Silva Júnior",
+    "position": "mei",
+    "nickname": "Juninho",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Rodolfo José da Silva Bardella",
+    "position": "ata",
+    "nickname": "Rodolfo",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Rodrigo Bassani da Cruz",
+    "position": "mei",
+    "nickname": "Bassani",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Rodrigo Caio Coquette Russo",
+    "position": "zag",
+    "nickname": "Rodrigo Caio",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Rodrigo Henrique Santos de Souza",
+    "position": "mei",
+    "nickname": "Rodriguinho",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Rodrigo dos Santos de Freitas",
+    "position": "zag",
+    "nickname": "Rodrigo Freitas",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Ronald dos Santos Lopes",
+    "position": "mei",
+    "nickname": "Ronald",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Ruan de Oliveira Ferreira",
+    "position": "mei",
+    "nickname": "Ruan",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Réver Humberto Alves Araújo",
+    "position": "zag",
+    "nickname": "Réver",
+    "teamName": "Atlético-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Sammuel Queiroz de Freitas",
+    "position": "mei",
+    "nickname": "Sammuel",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Samuel Salustiano de Jesus Silva",
+    "position": "ata",
+    "nickname": "Samuel Granada",
+    "teamName": "Fluminense",
+    "points": 0.0
+  },
+  {
+    "name": "Sandry Roberto Santos Goes",
+    "position": "mei",
+    "nickname": "Sandry",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Sebastião Ênio Santos de Almeida",
+    "position": "mei",
+    "nickname": "Ênio",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Severino do Ramo Clementino da Silva",
+    "position": "lat",
+    "nickname": "Nino Paraíba",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Tailson Pinto Gonçalves",
+    "position": "ata",
+    "nickname": "Tailson",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Taison Barcellos Freda",
+    "position": "mei",
+    "nickname": "Taison",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Talles Macedo Toledo Costa",
+    "position": "mei",
+    "nickname": "Talles",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Thalisson Gabriel Pereira Moreira",
+    "position": "zag",
+    "nickname": "Thalisson Gabriel",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Thalisson Kelven da Silva",
+    "position": "zag",
+    "nickname": "Thalisson Kelven",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Thauan Lara dos Santos",
+    "position": "lat",
+    "nickname": "Thauan Lara",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Thiago Couto Wenceslau",
+    "position": "gol",
+    "nickname": "Thiago Couto",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Thiago Heleno Henrique Ferreira",
+    "position": "zag",
+    "nickname": "Thiago Heleno",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Tiago Barbosa Figueiredo",
+    "position": "zag",
+    "nickname": "Tiago Barbosa",
+    "teamName": "Internacional",
+    "points": 0.0
+  },
+  {
+    "name": "Tiago Luis Volpi",
+    "position": "gol",
+    "nickname": "Tiago Volpi",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Vanderlan Barbosa da Silva",
+    "position": "lat",
+    "nickname": "Vanderlan",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Victor Hugo Gomes Silva",
+    "position": "mei",
+    "nickname": "Victor Hugo",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Victor Júlio Alves de Paula",
+    "position": "mei",
+    "nickname": "Vitinho",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Victor Vinícius Coelho dos Santos",
+    "position": "ata",
+    "nickname": "Vitinho",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "Vinicius Kauê Ribeiro Ferreira",
+    "position": "lat",
+    "nickname": "Vinicius Kauê",
+    "teamName": "Athlético-PR",
+    "points": 0.0
+  },
+  {
+    "name": "Vinicius Réquia Machado",
+    "position": "gol",
+    "nickname": "Vinicius Machado",
+    "teamName": "Ceará",
+    "points": 0.0
+  },
+  {
+    "name": "Vinicius Santos Silva",
+    "position": "ata",
+    "nickname": "Vinicius",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Vinicius Silvestre da Costa",
+    "position": "gol",
+    "nickname": "Vinicius Silvestre",
+    "teamName": "Palmeiras",
+    "points": 0.0
+  },
+  {
+    "name": "Vinícius Balieiro Lourenço de Carvalho",
+    "position": "mei",
+    "nickname": "Vinícius Balieiro",
+    "teamName": "Santos",
+    "points": 0.0
+  },
+  {
+    "name": "Vinícius Teodoro Barreta Melo",
+    "position": "gol",
+    "nickname": "Vinícius",
+    "teamName": "Cuiabá",
+    "points": 0.0
+  },
+  {
+    "name": "Vinícius de Lima Ferreira",
+    "position": "ata",
+    "nickname": "Vinícius Jaú",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Vitor Hugo de Andrade Oliveira",
+    "position": "lat",
+    "nickname": "Vitor Hugo",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Vitor Marinho de Oliveira",
+    "position": "lat",
+    "nickname": "Vitor Marinho",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Vitor Ricardo Guerra Candido Wach",
+    "position": "lat",
+    "nickname": "Vitor Ricardo",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Vladimir Orlando Cardoso de Araújo Filho",
+    "position": "gol",
+    "nickname": "Vladimir",
+    "teamName": "Avaí",
+    "points": 0.0
+  },
+  {
+    "name": "Walce da Silva Costa Filho",
+    "position": "zag",
+    "nickname": "Walce",
+    "teamName": "São Paulo",
+    "points": 0.0
+  },
+  {
+    "name": "Warley Leandro da Silva",
+    "position": "lat",
+    "nickname": "Warley",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "Wesley Gassova Ribeiro Teixeira",
+    "position": "ata",
+    "nickname": "Wesley",
+    "teamName": "Corinthians",
+    "points": 0.0
+  },
+  {
+    "name": "Wesley Vinícius França Lima",
+    "position": "lat",
+    "nickname": "Wesley",
+    "teamName": "Flamengo",
+    "points": 0.0
+  },
+  {
+    "name": "William Alves de Oliveira",
+    "position": "ata",
+    "nickname": "William Alves",
+    "teamName": "Coritiba",
+    "points": 0.0
+  },
+  {
+    "name": "William Arthur Assmann",
+    "position": "gol",
+    "nickname": "William",
+    "teamName": "Juventude",
+    "points": 0.0
+  },
+  {
+    "name": "Willian Klaus",
+    "position": "zag",
+    "nickname": "Klaus",
+    "teamName": "Botafogo",
+    "points": 0.0
+  },
+  {
+    "name": "Yan Medeiros Sasse",
+    "position": "mei",
+    "nickname": "Yan Sasse",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Yan da Cruz Souto",
+    "position": "zag",
+    "nickname": "Yan Souto",
+    "teamName": "Goiás",
+    "points": 0.0
+  },
+  {
+    "name": "Ángelo José Henríquez Iturra",
+    "position": "ata",
+    "nickname": "Henríquez",
+    "teamName": "Fortaleza",
+    "points": 0.0
+  },
+  {
+    "name": "Éder Ferreira Graminho",
+    "position": "zag",
+    "nickname": "Éder",
+    "teamName": "América-MG",
+    "points": 0.0
+  },
+  {
+    "name": "Cléber Bomfim de Jesus",
+    "position": "ata",
+    "nickname": "Cléber",
+    "teamName": "Ceará",
+    "points": -0.0
+  },
+  {
+    "name": "David de Duarte Macedo",
+    "position": "zag",
+    "nickname": "David Duarte",
+    "teamName": "Fluminense",
+    "points": -0.0
+  },
+  {
+    "name": "Emiliano Ariel Rigoni",
+    "position": "ata",
+    "nickname": "Rigoni",
+    "teamName": "São Paulo",
+    "points": -0.0
+  },
+  {
+    "name": "Felipe Marques da Silva",
+    "position": "ata",
+    "nickname": "Felipe Marques",
+    "teamName": "Cuiabá",
+    "points": -0.0
+  },
+  {
+    "name": "Gabriel Davi Gomes Sara",
+    "position": "mei",
+    "nickname": "Gabriel Sara",
+    "teamName": "São Paulo",
+    "points": -0.0
+  },
+  {
+    "name": "Henrique Lordelo Souza de Oliveira",
+    "position": "mei",
+    "nickname": "Henrique Lordelo",
+    "teamName": "Goiás",
+    "points": -0.0
+  },
+  {
+    "name": "Hugo Ferreira de Farias",
+    "position": "lat",
+    "nickname": "Hugo",
+    "teamName": "Goiás",
+    "points": -0.0
+  },
+  {
+    "name": "Jean Pyerre Casagrande Silveira Correa",
+    "position": "mei",
+    "nickname": "Jean Pyerre",
+    "teamName": "Avaí",
+    "points": -0.0
+  },
+  {
+    "name": "José Paulo Bezerra Maciel Júnior",
+    "position": "mei",
+    "nickname": "Paulinho",
+    "teamName": "Corinthians",
+    "points": -0.0
+  },
+  {
+    "name": "José Renato da Silva Júnior",
+    "position": "mei",
+    "nickname": "Renato",
+    "teamName": "Avaí",
+    "points": -0.0
+  },
+  {
+    "name": "Kayque Luiz Pereira",
+    "position": "mei",
+    "nickname": "Kayque",
+    "teamName": "Botafogo",
+    "points": -0.0
+  },
+  {
+    "name": "Leonardo Pereira",
+    "position": "zag",
+    "nickname": "Léo Pereira",
+    "teamName": "Flamengo",
+    "points": -0.0
+  },
+  {
+    "name": "Leonardo Rafael dos Santos",
+    "position": "mei",
+    "nickname": "Léo Rafael",
+    "teamName": "Ceará",
+    "points": -0.0
+  },
+  {
+    "name": "Lucas de Figueiredo Crispim",
+    "position": "mei",
+    "nickname": "Lucas Crispim",
+    "teamName": "Fortaleza",
+    "points": -0.0
+  },
+  {
+    "name": "Marlon Adriano Prezotti",
+    "position": "mei",
+    "nickname": "Marlon",
+    "teamName": "Juventude",
+    "points": -0.0
+  },
+  {
+    "name": "Matheus Martinelli Lima",
+    "position": "mei",
+    "nickname": "Martinelli",
+    "teamName": "Fluminense",
+    "points": -0.0
+  },
+  {
+    "name": "Matheus Nascimento de Paula",
+    "position": "ata",
+    "nickname": "Matheus Nascimento",
+    "teamName": "Botafogo",
+    "points": -0.0
+  },
+  {
+    "name": "Matheus de Vargas",
+    "position": "mei",
+    "nickname": "Matheus Vargas",
+    "teamName": "Fortaleza",
+    "points": -0.0
+  },
+  {
+    "name": "Paulo Henrique de Oliveira Alves",
+    "position": "lat",
+    "nickname": "Paulo Henrique",
+    "teamName": "Juventude",
+    "points": -0.0
+  },
+  {
+    "name": "Rodrigo Oliveira Lindoso",
+    "position": "mei",
+    "nickname": "Rodrigo Lindoso",
+    "teamName": "Ceará",
+    "points": -0.0
+  },
+  {
+    "name": "Thonny Anderson da Silva Carvalho",
+    "position": "mei",
+    "nickname": "Thonny Anderson",
+    "teamName": "Coritiba",
+    "points": -0.0
+  },
+  {
+    "name": "Vinícius Leite Silva",
+    "position": "mei",
+    "nickname": "Vinícius Leite",
+    "teamName": "Avaí",
+    "points": -0.0
+  },
+  {
+    "name": "Welliton Silva de Azevedo Matheus",
+    "position": "ata",
+    "nickname": "Welliton",
+    "teamName": "Bragantino",
+    "points": -0.0
+  },
+  {
+    "name": "Willian Gomes de Siqueira",
+    "position": "ata",
+    "nickname": "Willian",
+    "teamName": "Fluminense",
+    "points": -0.0
+  },
+  {
+    "name": "Aloísio dos Santos Gonçalves",
+    "position": "ata",
+    "nickname": "Aloísio",
+    "teamName": "América-MG",
+    "points": -0.01
+  },
+  {
+    "name": "Auremir Evangelista dos Santos",
+    "position": "mei",
+    "nickname": "Auremir",
+    "teamName": "Goiás",
+    "points": -0.01
+  },
+  {
+    "name": "Daniel Guedes da Silva",
+    "position": "lat",
+    "nickname": "Daniel Guedes ",
+    "teamName": "Cuiabá",
+    "points": -0.01
+  },
+  {
+    "name": "David Braz de Oliveira Filho",
+    "position": "zag",
+    "nickname": "David Braz",
+    "teamName": "Fluminense",
+    "points": -0.01
+  },
+  {
+    "name": "Estevão Barreto de Oliveira",
+    "position": "mei",
+    "nickname": "Estevão",
+    "teamName": "Internacional",
+    "points": -0.01
+  },
+  {
+    "name": "Frederico Chaves Guedes",
+    "position": "ata",
+    "nickname": "Fred",
+    "teamName": "Fluminense",
+    "points": -0.01
+  },
+  {
+    "name": "Jan Carlos Hurtado Anchico",
+    "position": "ata",
+    "nickname": "Jan Hurtado",
+    "teamName": "Bragantino",
+    "points": -0.01
+  },
+  {
+    "name": "Kelvyn Ramos da Fonseca",
+    "position": "lat",
+    "nickname": "Kelvyn",
+    "teamName": "Ceará",
+    "points": -0.01
+  },
+  {
+    "name": "Leonardo Pinheiro da Conceição",
+    "position": "zag",
+    "nickname": "Léo",
+    "teamName": "São Paulo",
+    "points": -0.01
+  },
+  {
+    "name": "Luan Madson Gedeão De Paiva",
+    "position": "mei",
+    "nickname": "Luan",
+    "teamName": "Goiás",
+    "points": -0.01
+  },
+  {
+    "name": "Lucas Fasson dos Santos",
+    "position": "zag",
+    "nickname": "Lucas Fasson",
+    "teamName": "Athlético-PR",
+    "points": -0.01
+  },
+  {
+    "name": "Marcos da Silva França",
+    "position": "ata",
+    "nickname": "Keno",
+    "teamName": "Atlético-MG",
+    "points": -0.01
+  },
+  {
+    "name": "Marlon Rodrigues Xavier",
+    "position": "lat",
+    "nickname": "Marlon",
+    "teamName": "Fluminense",
+    "points": -0.01
+  },
+  {
+    "name": "Matheus Alves da Silva Cardoso",
+    "position": "gol",
+    "nickname": "Matheus Alves",
+    "teamName": "Goiás",
+    "points": -0.01
+  },
+  {
+    "name": "Matheus França de Oliveira",
+    "position": "mei",
+    "nickname": "Matheus França",
+    "teamName": "Flamengo",
+    "points": -0.01
+  },
+  {
+    "name": "Pablo Felipe Teixeira",
+    "position": "ata",
+    "nickname": "Pablo",
+    "teamName": "Athlético-PR",
+    "points": -0.01
+  },
+  {
+    "name": "Rickson Barbosa Sá da Conceição",
+    "position": "mei",
+    "nickname": "Rickson",
+    "teamName": "Atlético-GO",
+    "points": -0.01
+  },
+  {
+    "name": "Valentín Depietri",
+    "position": "ata",
+    "nickname": "Depietri",
+    "teamName": "Fortaleza",
+    "points": -0.01
+  },
+  {
+    "name": "Gustavo Henric da Silva",
+    "position": "ata",
+    "nickname": "Gustavo Mosquito",
+    "teamName": "Corinthians",
+    "points": -0.02
+  },
+  {
+    "name": "Lucas de Souza Ventura",
+    "position": "mei",
+    "nickname": "Lucas Ventura",
+    "teamName": "Avaí",
+    "points": -0.02
+  },
+  {
+    "name": "Reinaldo Manoel da Silva",
+    "position": "lat",
+    "nickname": "Reinaldo",
+    "teamName": "São Paulo",
+    "points": -0.02
+  },
+  {
+    "name": "Roni Medeiros de Moura",
+    "position": "mei",
+    "nickname": "Roni",
+    "teamName": "Corinthians",
+    "points": -0.02
+  },
+  {
+    "name": "Matheus Isaías dos Santos",
+    "position": "mei",
+    "nickname": "Matheus Jussa",
+    "teamName": "Fortaleza",
+    "points": -0.03
+  }
+]

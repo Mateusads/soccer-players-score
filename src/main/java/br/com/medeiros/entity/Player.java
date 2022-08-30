@@ -14,4 +14,9 @@ public class Player {
   private Team team;
   private Double points;
 
+  public void addPoint(Double points){
+
+    this.points += points;
+  }
+
 }

@@ -2,6 +2,7 @@ package br.com.medeiros.service;
 
 import br.com.medeiros.entity.Player;
 import br.com.medeiros.entity.Team;
+import java.text.DecimalFormat;
 
 public class ProcessingPlayerService {
 
@@ -14,7 +15,7 @@ public class ProcessingPlayerService {
         .id(Long.parseLong(playerData[1]))
         .name(playerData[15])
         .position(playerData[4])
-        .nickname(playerData[14])
+        .nickname(playerData[13])
         .team(team)
         .points(Double.parseDouble(playerData[6]))
         .build();

@@ -11,21 +11,11 @@ import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
 public class ReadFile {
-  private final ProcessingPlayerService processingPlayerService;
 
   public BufferedReader createPlayers(final String filePath) throws IOException {
-    Set<Player> players = new HashSet<>();
     BufferedReader bufferedReader = new BufferedReader(new FileReader(filePath));
     return bufferedReader;
-//    String line;
-//    while (bufferedReader.readLine()!= null) {
-//      line = bufferedReader.readLine();
-//      var player = processingPlayerService.createPlayerFromLine(line);
-//      players.add(player);
-//    }
-//    return players;
   }
-
 }
 
 

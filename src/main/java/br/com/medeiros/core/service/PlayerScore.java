@@ -1,12 +1,6 @@
-package br.com.medeiros.service;
+package br.com.medeiros.core.service;
 
-import br.com.medeiros.controller.input.PullCartolaFile;
-import br.com.medeiros.controller.input.ReadFile;
-import br.com.medeiros.controller.output.mapper.PlayerMapper;
-import br.com.medeiros.entity.Player;
-import java.io.IOException;
-import java.util.HashSet;
-import java.util.Set;
+import br.com.medeiros.input.mapper.PlayerMapper;
 import javax.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped
@@ -22,6 +16,4 @@ public class PlayerScore {
 
     return returnJson;
   }
-
-
 }

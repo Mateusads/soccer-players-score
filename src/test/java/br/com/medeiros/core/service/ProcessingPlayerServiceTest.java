@@ -1,7 +1,8 @@
-package br.com.medeiros.service;
+package br.com.medeiros.core.service;
 
 import static org.assertj.core.api.Assertions.assertThat;
 
+import br.com.medeiros.core.service.ProcessingPlayerService;
 import org.junit.jupiter.api.Test;
 
 class ProcessingPlayerServiceTest {

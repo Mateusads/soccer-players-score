@@ -1,8 +1,8 @@
-package br.com.medeiros.service;
+package br.com.medeiros.core.service;
 
-import br.com.medeiros.controller.input.PullCartolaFile;
-import br.com.medeiros.controller.input.ReadFile;
-import br.com.medeiros.entity.Player;
+import br.com.medeiros.input.controller.PullCartolaFile;
+import br.com.medeiros.input.controller.ReadFile;
+import br.com.medeiros.core.entity.Player;
 import java.io.IOException;
 import java.util.HashMap;
 import java.util.HashSet;

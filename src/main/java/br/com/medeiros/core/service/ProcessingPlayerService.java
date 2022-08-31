@@ -1,8 +1,7 @@
-package br.com.medeiros.service;
+package br.com.medeiros.core.service;
 
-import br.com.medeiros.entity.Player;
-import br.com.medeiros.entity.Team;
-import java.text.DecimalFormat;
+import br.com.medeiros.core.entity.Player;
+import br.com.medeiros.core.entity.Team;
 
 public class ProcessingPlayerService {
 

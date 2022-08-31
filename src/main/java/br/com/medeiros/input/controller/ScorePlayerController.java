@@ -1,6 +1,6 @@
-package br.com.medeiros.controller.input;
+package br.com.medeiros.input.controller;
 
-import br.com.medeiros.service.PlayerScore;
+import br.com.medeiros.core.service.PlayerScore;
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.PathParam;

@@ -1,4 +1,4 @@
-package br.com.medeiros.controller.input;
+package br.com.medeiros.input.controller;
 
 import java.io.FileOutputStream;
 import java.io.IOException;

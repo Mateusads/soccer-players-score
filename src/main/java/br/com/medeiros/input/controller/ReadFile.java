@@ -1,12 +1,8 @@
-package br.com.medeiros.controller.input;
+package br.com.medeiros.input.controller;
 
-import br.com.medeiros.entity.Player;
-import br.com.medeiros.service.ProcessingPlayerService;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.HashSet;
-import java.util.Set;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor

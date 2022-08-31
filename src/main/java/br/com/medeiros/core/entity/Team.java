@@ -1,4 +1,4 @@
-package br.com.medeiros.entity;
+package br.com.medeiros.core.entity;
 
 import lombok.Builder;
 import lombok.Getter;

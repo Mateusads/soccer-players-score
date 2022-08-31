@@ -1,12 +1,11 @@
-package br.com.medeiros.controller.output.dto;
+package br.com.medeiros.input.dto;
 
-import br.com.medeiros.entity.Team;
 import lombok.Builder;
 import lombok.Getter;
 
 @Builder
 @Getter
-public class PlayerDTO  implements Comparable<PlayerDTO> {
+public class PlayerDTO implements Comparable<PlayerDTO> {
 
   private String name;
   private String position;
@@ -16,7 +15,7 @@ public class PlayerDTO  implements Comparable<PlayerDTO> {
 
   @Override
   public int compareTo(PlayerDTO otherPlayerDTO) {
-    if(otherPlayerDTO.getPoints().compareTo(this.points) == 0){
+    if (otherPlayerDTO.getPoints().compareTo(this.points) == 0) {
       return this.getName().compareTo(otherPlayerDTO.getName());
     }
     return otherPlayerDTO.getPoints().compareTo(this.points);

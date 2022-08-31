@@ -1,8 +1,9 @@
-package br.com.medeiros.service;
+package br.com.medeiros.core.service;
 
 
 import static org.assertj.core.api.Assertions.assertThatNoException;
 
+import br.com.medeiros.core.service.CreateScorePlayer;
 import org.junit.jupiter.api.Test;
 
 class CreateScorePlayerTest {

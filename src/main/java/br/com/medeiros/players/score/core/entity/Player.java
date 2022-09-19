@@ -1,4 +1,4 @@
-package br.com.medeiros.core.entity;
+package br.com.medeiros.players.score.core.entity;
 
 import lombok.Builder;
 import lombok.Getter;

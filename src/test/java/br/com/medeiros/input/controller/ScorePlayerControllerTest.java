@@ -17,51 +17,10 @@ class ScorePlayerControllerTest {
   @Test
   public void testScorePlayerRoundsEndpoint() {
     given()
-        .when().get("/scorePlayerRounds")
+        .when().get("/players")
         .then()
         .statusCode(200)
         .body(is(""));
-  }
-
-  @Test
-  public void shouldAOneNumberInRequestGiveReturnJsonRounds() {
-    final var jsonReturnAssert = new BufferedReader(
-        new InputStreamReader(
-            Objects.requireNonNull(getClass().getResourceAsStream("/jsonExpected/jsonPlayer.json")),
-            StandardCharsets.UTF_8))
-        .lines()
-        .collect(Collectors.joining("\n"));
-    given()
-        .when().get("/scorePlayerRounds/1")
-        .then()
-        .statusCode(200)
-        .body(is(jsonReturnAssert));
-  }
-
-  @Test
-  public void shouldAFiveNumberInRequestGiveReturnJsonRounds() {
-    final var jsonReturnAssert = new BufferedReader(
-        new InputStreamReader(
-            Objects.requireNonNull(
-                getClass().getResourceAsStream("/jsonExpected/jsonPlayer5Rounds.json")),
-            StandardCharsets.UTF_8))
-        .lines()
-        .collect(Collectors.joining("\n"));
-    given()
-        .when().get("/scorePlayerRounds/5")
-        .then()
-        .statusCode(200)
-        .body(is(jsonReturnAssert));
-  }
-
-  @Test
-  public void shouldANoNumberInRequestGiveAException() {
-    given()
-        .when().get("/scorePlayerRounds/ABC")
-        .then()
-        .statusCode(200)
-        .body(is("It's not a number a request"));
-    ;
   }
 
 }

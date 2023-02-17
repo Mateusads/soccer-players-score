@@ -1,10 +1,12 @@
-package br.com.medeiros.players.score.core.entity;
+package br.com.medeiros.players.score.domain.entity;
 
 import lombok.Builder;
+import lombok.EqualsAndHashCode;
 import lombok.Getter;
 
 @Builder
 @Getter
+@EqualsAndHashCode(of = {"id", "name"})
 public class Player {
 
   private Long id;

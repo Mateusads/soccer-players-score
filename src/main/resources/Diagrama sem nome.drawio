@@ -1,1 +1,97 @@
-<mxfile host="app.diagrams.net" modified="2023-03-10T11:45:12.015Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AkZwPZJyO4bMRa5zDqBj" version="21.0.6" type="github"><diagram name="Página-1" id="Lwdg_upJvftOhq4kmK9L">1ZZdb4IwFIZ/DZcmWlDnJSLbNDoNmH1410kFkkJZrYL++h2kBYkz2bJM5wWhfc9XT59zUU23ouyB4ySYMI9QDTW9TNMHGkItQzfglyu7QrlTgs9DTzpVghvuiRSbUt2EHlnXHAVjVIRJXVyyOCZLUdMw5yytu60YrVdNsE9OBHeJ6an6EnoikF2gbqU/ktAPVOVWp1dYIqycZSfrAHssPZJ0W9MtzpgoVlFmEZpfnrqXIu7+jLU8GCex+E4A7u6ynhX0JwuyoK+NUT8e7RsyyxbTjWxYQx0K+frvsPDzhRJWDOpAG2In76bzsWHK0FgfyJnggIwkK8KkXSUyZ0MwN+BzbHeu0sKBi8z1aiAfnQDVCiPONrFH8r6aYE6DUBA3wcvcmsIYghaIiMKuVUZvCRckO3t1rRIITDJhERF8By4yADUlQzXEcptWE1FqwdE0KA3LIfTLzBUnWEhUP8CGLojNmj7Nnel4bDvuLTMr91eDpl8Qmms7z0PLvmVgOro2MOMssHWC41/xOSHv2LOpO5xPnbev4ZRaUfqfMjOMazNrX5DZwJybfdO1b5lYu/N3xGBbPW8OtqNHom5/Ag==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-10T12:08:10.618Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Iv2UZa9WKsg0biw5UIMA" version="21.0.6" type="github">
+  <diagram name="Página-1" id="Lwdg_upJvftOhq4kmK9L">
+    <mxGraphModel dx="1434" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="IMHiyt7qtnZKYGunOryh-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="700" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="a7yx9ChBMZeZlX-JBnJz-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;API - REST&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="40" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a7yx9ChBMZeZlX-JBnJz-2" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;CONTROLLERS&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a7yx9ChBMZeZlX-JBnJz-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SERVICE&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="280" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a7yx9ChBMZeZlX-JBnJz-4" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;REPOSITORY&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="400" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="a7yx9ChBMZeZlX-JBnJz-5" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;DATABASE&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="520" width="280" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a7yx9ChBMZeZlX-JBnJz-2" target="a7yx9ChBMZeZlX-JBnJz-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-3" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a7yx9ChBMZeZlX-JBnJz-3" target="a7yx9ChBMZeZlX-JBnJz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a7yx9ChBMZeZlX-JBnJz-4" target="a7yx9ChBMZeZlX-JBnJz-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-5" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="a7yx9ChBMZeZlX-JBnJz-5" target="a7yx9ChBMZeZlX-JBnJz-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="450" as="sourcePoint" />
+            <mxPoint x="440" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="80" as="sourcePoint" />
+            <mxPoint x="400" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Json Response&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Consulta score de um único jogador&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Consulta rank score top 10 de jogador por ano&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-8" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Endpoints&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- http://.../score/{nome do jogador}&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- http://.../score/rank/{ano}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="160" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="199.5" as="sourcePoint" />
+            <mxPoint x="400" y="199.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="319.5" as="sourcePoint" />
+            <mxPoint x="400" y="319.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="439.5" as="sourcePoint" />
+            <mxPoint x="400" y="439.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="559.5" as="sourcePoint" />
+            <mxPoint x="400" y="559.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Regra de Negócio&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Filtra para buscar um único jogador&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Ordena por score para criar o rank&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-14" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Buscas ou salvar no banco&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Buscar os Jogadores&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Manda para o banco os dados&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;dos jogadores e seus pontos&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="405" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="IMHiyt7qtnZKYGunOryh-15" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Banco de Dados&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Armazena todos os dados de jogadores&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="535" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

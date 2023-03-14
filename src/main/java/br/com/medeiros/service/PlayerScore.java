@@ -1,6 +1,7 @@
-package br.com.medeiros.core.service;
+package br.com.medeiros.service;
 
-import br.com.medeiros.input.mapper.PlayerMapper;
+import br.com.medeiros.controller.mapper.PlayerMapper;
+import br.com.medeiros.core.service.CreateScorePlayer;
 import javax.enterprise.context.ApplicationScoped;
 
 @ApplicationScoped

@@ -1,4 +1,4 @@
-package br.com.medeiros.input.dto;
+package br.com.medeiros.controller.dto;
 
 import lombok.Builder;
 import lombok.Getter;

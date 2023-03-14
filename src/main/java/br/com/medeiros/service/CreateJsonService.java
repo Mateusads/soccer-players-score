@@ -1,6 +1,6 @@
-package br.com.medeiros.core.service;
+package br.com.medeiros.service;
 
-import br.com.medeiros.input.dto.PlayerDTO;
+import br.com.medeiros.controller.dto.PlayerDTO;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import java.util.ArrayList;

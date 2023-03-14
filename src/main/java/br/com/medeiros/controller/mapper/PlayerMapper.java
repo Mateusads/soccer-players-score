@@ -1,7 +1,7 @@
-package br.com.medeiros.input.mapper;
+package br.com.medeiros.controller.mapper;
 
 import br.com.medeiros.core.entity.Player;
-import br.com.medeiros.input.dto.PlayerDTO;
+import br.com.medeiros.controller.dto.PlayerDTO;
 import java.text.DecimalFormat;
 import java.util.Set;
 import java.util.stream.Collectors;

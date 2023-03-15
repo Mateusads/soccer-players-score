@@ -12,7 +12,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
     <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
-    <quarkus.platform.version>2.11.2.Final</quarkus.platform.version>
+    <quarkus.platform.version>3.0.0.Alpha5</quarkus.platform.version>
     <skipITs>true</skipITs>
     <surefire-plugin.version>3.0.0-M7</surefire-plugin.version>
   </properties>
@@ -51,6 +51,17 @@
       <artifactId>gson</artifactId>
       <version>2.9.0</version>
     </dependency>
+    <!-- DB dependencies -->
+    <dependency>
+      <groupId>com.jongsoft.finance</groupId>
+      <artifactId>jpa-repository</artifactId>
+      <version>2.4.2</version>
+    </dependency>
+    <dependency>
+      <groupId>io.quarkus</groupId>
+      <artifactId>quarkus-hibernate-orm-panache</artifactId>
+      <version>3.0.0.Alpha5</version>
+    </dependency>
     <!-- Tests dependencies -->
     <dependency>
       <groupId>org.assertj</groupId>
@@ -66,6 +77,16 @@
     <dependency>
       <groupId>io.rest-assured</groupId>
       <artifactId>rest-assured</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.mockito</groupId>
+      <artifactId>mockito-core</artifactId>
+      <scope>test</scope>
+    </dependency>
+    <dependency>
+      <groupId>org.mockito</groupId>
+      <artifactId>mockito-junit-jupiter</artifactId>
       <scope>test</scope>
     </dependency>
   </dependencies>

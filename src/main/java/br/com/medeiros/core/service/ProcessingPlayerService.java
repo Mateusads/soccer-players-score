@@ -9,14 +9,14 @@ public class ProcessingPlayerService {
     line = line.replaceAll("\"", "");
     var separator = ",";
     var playerData = line.split(separator);
-    Team team = Team.builder().id(Long.parseLong(playerData[3])).name(playerData[17]).build();
+    Team team = Team.builder().id(Long.parseLong(playerData[3].trim())).name(playerData[17].trim()).build();
     return Player.builder()
-        .id(Long.parseLong(playerData[1]))
+        .id(Long.parseLong(playerData[1].trim()))
         .name(playerData[15])
         .position(playerData[4])
         .nickname(playerData[13])
         .team(team)
-        .points(Double.parseDouble(playerData[6]))
+        .points(Double.parseDouble(playerData[6].trim()))
         .build();
   }
 }

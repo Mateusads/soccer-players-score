@@ -9,7 +9,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class CreateScorePlayer {
+public class CreateScorePlayerService {
   private final PullCartolaFile pullCartolaFile = new PullCartolaFile();
   private final ProcessingPlayerService processingPlayerService = new ProcessingPlayerService();
   private final ReadFile readFile = new ReadFile();
@@ -33,7 +33,7 @@ public class CreateScorePlayer {
           }
         }
         count++;
-      } catch (IOException e) {
+      } catch (Exception e) {
         throw new RuntimeException(e);
       }
     }

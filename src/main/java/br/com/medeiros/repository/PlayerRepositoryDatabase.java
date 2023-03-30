@@ -1,6 +1,6 @@
 package br.com.medeiros.repository;
 
-import br.com.medeiros.core.entity.Player;
+import br.com.medeiros.core.domain.Player;
 import io.quarkus.hibernate.orm.panache.PanacheRepository;
 import java.util.List;
 
@@ -9,7 +9,7 @@ public class PlayerRepositoryDatabase implements
 
   @Override
   public Player findByName(String name) {
-    return findByName(name);
+    return find("name", name).singleResult();
   }
 
   @Override
@@ -19,11 +19,11 @@ public class PlayerRepositoryDatabase implements
 
   @Override
   public void create(Player player) {
-    create(player);
+    persist(player);
   }
 
   @Override
   public void remove(long id) {
-    remove(id);
+    delete("id", id);
   }
 }

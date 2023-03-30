@@ -2,12 +2,10 @@ package br.com.medeiros.repository;
 
 import static io.quarkus.logging.Log.log;
 
-import br.com.medeiros.core.entity.Player;
-import br.com.medeiros.core.service.CreateScorePlayerService;
-import java.util.Collections;
+import br.com.medeiros.core.domain.Player;
+import br.com.medeiros.external.service.CreateScorePlayerService;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 import lombok.Data;
 import org.jboss.logging.Logger.Level;
 
@@ -47,7 +45,15 @@ public class PlayerRepositoryMemory implements
 
   @Override
   public void remove(long id) {
-    log(Level.ERROR, "Not possibility remove");
+    try {
+      final var playerResponse =
+          players.stream().filter(player -> player.getId().equals(id)).toList().stream().findFirst();
+
+      playerResponse.ifPresent(player -> players.remove(player));
+
+    } catch (Exception e) {
+      log(Level.ERROR, "Not possibility remove: " + e.getMessage());
+    }
   }
 
   private List<Player> findAll() {

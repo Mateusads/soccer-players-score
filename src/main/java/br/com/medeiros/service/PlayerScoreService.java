@@ -1,7 +1,6 @@
 package br.com.medeiros.service;
 
 import br.com.medeiros.controller.mapper.PlayerMapper;
-import br.com.medeiros.core.service.CreateScorePlayerService;
 import br.com.medeiros.repository.PlayerRepository;
 import jakarta.inject.Inject;
 

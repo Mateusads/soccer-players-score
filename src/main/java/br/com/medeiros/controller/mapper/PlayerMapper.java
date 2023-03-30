@@ -1,6 +1,6 @@
 package br.com.medeiros.controller.mapper;
 
-import br.com.medeiros.core.entity.Player;
+import br.com.medeiros.core.domain.Player;
 import br.com.medeiros.controller.dto.PlayerDTO;
 import java.text.DecimalFormat;
 import java.util.List;

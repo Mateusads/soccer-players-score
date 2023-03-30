@@ -1,6 +1,6 @@
 package br.com.medeiros.application;
 
-import br.com.medeiros.core.service.CreateScorePlayerService;
+import br.com.medeiros.external.service.CreateScorePlayerService;
 import br.com.medeiros.repository.PlayerRepositoryMemory;
 import io.quarkus.runtime.Quarkus;
 import io.quarkus.runtime.StartupEvent;

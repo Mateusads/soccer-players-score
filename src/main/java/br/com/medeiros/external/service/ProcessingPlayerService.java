@@ -1,7 +1,7 @@
-package br.com.medeiros.core.service;
+package br.com.medeiros.external.service;
 
-import br.com.medeiros.core.entity.Player;
-import br.com.medeiros.core.entity.Team;
+import br.com.medeiros.core.domain.Player;
+import br.com.medeiros.core.domain.Team;
 
 public class ProcessingPlayerService {
 

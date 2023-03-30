@@ -1,4 +1,4 @@
-package br.com.medeiros.input.controller;
+package br.com.medeiros.external;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -6,9 +6,9 @@ import java.io.IOException;
 import lombok.AllArgsConstructor;
 
 @AllArgsConstructor
-public class ReadFile {
+public class Buffer {
 
-  public BufferedReader createPlayers(final String filePath) throws IOException {
+  public BufferedReader createBuffer(final String filePath) throws IOException {
     BufferedReader bufferedReader = new BufferedReader(new FileReader(filePath));
     return bufferedReader;
   }

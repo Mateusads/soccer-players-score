@@ -1,8 +1,9 @@
 package br.com.medeiros.controller.mapper;
 
-import br.com.medeiros.core.entity.Player;
+import br.com.medeiros.core.domain.Player;
 import br.com.medeiros.controller.dto.PlayerDTO;
 import java.text.DecimalFormat;
+import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
 import lombok.NoArgsConstructor;
@@ -23,7 +24,7 @@ public class PlayerMapper {
         .build();
   }
 
-  public static Set<PlayerDTO> toDTOs(final Set<Player> players){
+  public static Set<PlayerDTO> toDTOs(final List<Player> players){
     return players.stream()
         .map(PlayerMapper::toDTO)
         .collect(Collectors.toSet());

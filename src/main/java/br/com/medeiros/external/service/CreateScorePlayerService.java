@@ -1,39 +1,38 @@
-package br.com.medeiros.core.service;
+package br.com.medeiros.external.service;
 
-import br.com.medeiros.input.controller.PullCartolaFile;
-import br.com.medeiros.input.controller.ReadFile;
-import br.com.medeiros.core.entity.Player;
-import java.io.IOException;
+import br.com.medeiros.core.domain.Player;
+import br.com.medeiros.external.Buffer;
+import br.com.medeiros.external.PullCartolaFile;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-public class CreateScorePlayer {
+public class CreateScorePlayerService {
   private final PullCartolaFile pullCartolaFile = new PullCartolaFile();
   private final ProcessingPlayerService processingPlayerService = new ProcessingPlayerService();
-  private final ReadFile readFile = new ReadFile();
+  private final Buffer buffer = new Buffer();
 
   public Set<Player> create(int numberOfRound) {
     int count = 0;
     Set<Player> playersSet = new HashSet<>();
     Map<Long, Player> playersMap = new HashMap();
-    while (count <= numberOfRound){
+    while (count <= numberOfRound) {
       try {
         var url = pullCartolaFile.createFile(count);
-        var br = readFile.createPlayers(url);
+        var br = buffer.createBuffer(url);
 
         String line = br.readLine();
-        while ((line = br.readLine())!= null) {
+        while ((line = br.readLine()) != null) {
           var player = processingPlayerService.createPlayerFromLine(line);
-          if(playersMap.containsKey(player.getId())){
+          if (playersMap.containsKey(player.getId())) {
             playersMap.get(player.getId()).addPoint(player.getPoints());
-          }else {
+          } else {
             playersMap.put(player.getId(), player);
           }
         }
         count++;
-      } catch (IOException e) {
+      } catch (Exception e) {
         throw new RuntimeException(e);
       }
     }

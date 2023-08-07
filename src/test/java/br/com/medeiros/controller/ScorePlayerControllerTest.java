@@ -1,19 +1,21 @@
 package br.com.medeiros.controller;
 
 
-import static io.restassured.RestAssured.given;
-import static io.restassured.http.ContentType.TEXT;
-import static org.assertj.core.api.Assertions.assertThat;
+import static org.assertj.core.api.Assertions.assertThatCode;
 import static org.assertj.core.api.Assertions.assertThatThrownBy;
-import static org.hamcrest.Matchers.equalTo;
+import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
+import static org.mockito.Mockito.when;
 
+import br.com.medeiros.controller.dto.PlayerDTO;
+import br.com.medeiros.service.PlayerScoreService;
 import java.security.InvalidParameterException;
 import java.util.List;
-import javax.inject.Inject;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
 import org.mockito.InjectMocks;
+import org.mockito.Mock;
 import org.mockito.junit.jupiter.MockitoExtension;
+
 
 @ExtendWith(MockitoExtension.class)
 class ScorePlayerControllerTest {
@@ -21,18 +23,36 @@ class ScorePlayerControllerTest {
   @InjectMocks
   private ScorePlayerController scorePlayerController;
 
+  @Mock
+  private PlayerScoreService playerScoreService;
+
   @Test
   void giveAPlayerNameWhenValidParamThenReturnPlayerAndScore() {
     final var playerName = "CR7";
-    final var response = scorePlayerController.playerScore(playerName);
-    assertThat(response).isEqualTo("Player Name: CR7 | 98 points");
 
+    when(playerScoreService.getPlayerByName(playerName)).thenReturn(createPlayerDto(playerName));
+
+    assertThatCode(() -> {
+      final var response = scorePlayerController.playerScore(playerName);
+      assertThat(response).isNotNull();
+      assertThat(response).isEqualTo("Player Name: Cristiano Ronaldo dos Santos Aveiro | Nickname: CR7 | 98.0 points");
+    }).doesNotThrowAnyException();
+
+  }
+
+  private PlayerDTO createPlayerDto(String playerName) {
+    return PlayerDTO.builder()
+        .name("Cristiano Ronaldo dos Santos Aveiro")
+        .nickname(playerName)
+        .points(98D)
+        .build();
   }
 
   @Test
   void giveAYearWhenValidParamThenReturnListPlayersAndScores() {
     final var response = scorePlayerController.topPlayerScoreForYear("2023");
-    assertThat(response).isEqualTo(List.of("Player Name: CR7 | 98 points", "Player Name: Messi | 96 points"));
+    assertThat(response).isEqualTo(
+        List.of("Player Name: CR7 | 98 points", "Player Name: Messi | 96 points"));
   }
 
   @Test

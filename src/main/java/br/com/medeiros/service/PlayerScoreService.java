@@ -1,6 +1,8 @@
 package br.com.medeiros.service;
 
+import br.com.medeiros.controller.dto.PlayerDTO;
 import br.com.medeiros.controller.mapper.PlayerMapper;
+import br.com.medeiros.core.domain.Player;
 import br.com.medeiros.repository.PlayerRepository;
 import jakarta.inject.Inject;
 
@@ -21,5 +23,14 @@ public class PlayerScoreService {
     var playersJson = createJsonService.converter(playerDTO);
 
     return playersJson;
+  }
+
+  public PlayerDTO getPlayerByName(String playerName) {
+    final var player = Player.builder()
+        .name("Cristiano Ronaldo Aveiro dos Santos")
+        .nickname(playerName)
+        .points(98D)
+        .build();
+    return PlayerMapper.toDTO(player);
   }
 }
